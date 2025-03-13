@@ -32,15 +32,10 @@ COLOR_MAP = {
 }
 
 # File paths
-VOLUME_PATH = st.file_uploader("Vietnam_volume_cleaned", type=["csv"])
-PRICE_PATH = st.file_uploader("Vietnam_Price_cleaned", type=["csv"])
-SECTOR_PATH = st.file_uploader("Phan_loai_nganh", type=["csv"])
-INVESTOR_DATA_PATH = st.file_uploader("combined_data", type=["csv"])
-uploaded_file = (VOLUME_PATH, PRICE_PATH, SECTOR_PATH, INVESTOR_DATA_PATH)
-                 
-if uploaded_file is not None:
-    # Đọc file trực tiếp từ Streamlit file_uploader
-    df = pd.read_csv(uploaded_file)
+VOLUME_PATH = r"D:\Documents\Vietnam_volume_cleaned.csv"
+PRICE_PATH = r"D:\Documents\Vietnam_Price_cleaned.csv"
+SECTOR_PATH = r"D:\Documents\Phan_loai_nganh.csv"
+INVESTOR_DATA_PATH = r"D:\Documents\combined_data.csv"
 
 # Thiết lập trang
 st.set_page_config(page_title="Dashboard Giao dịch Toàn diện", layout="wide")
