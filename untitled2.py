@@ -32,10 +32,10 @@ COLOR_MAP = {
 }
 
 # File paths
-VOLUME_PATH = r"D:\Documents\Vietnam_volume_cleaned.csv"
-PRICE_PATH = r"D:\Documents\Vietnam_Price_cleaned.csv"
-SECTOR_PATH = r"D:\Documents\Phan_loai_nganh.csv"
-INVESTOR_DATA_PATH = r"D:\Documents\combined_data.csv"
+VOLUME_PATH = r"https://raw.githubusercontent.com/ThuyTien121/GPM1-ASSIGNMENT3/main/Vietnam_volume_cleaned.csv"
+PRICE_PATH = r"https://raw.githubusercontent.com/ThuyTien121/GPM1-ASSIGNMENT3/main/Vietnam_Price_cleaned.csv"
+SECTOR_PATH = r"https://raw.githubusercontent.com/ThuyTien121/GPM1-ASSIGNMENT3/main/Phan_loai_nganh.csv"
+INVESTOR_DATA_PATH = r"https://raw.githubusercontent.com/ThuyTien121/GPM1-ASSIGNMENT3/main/combined_data.csv"
 
 # Thiết lập trang
 st.set_page_config(page_title="Dashboard Giao dịch Toàn diện", layout="wide")
