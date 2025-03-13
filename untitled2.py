@@ -32,10 +32,10 @@ COLOR_MAP = {
 }
 
 # File paths
-VOLUME_PATH = r"C:\Users\Dell\OneDrive\Documents\GÓI PHẦN MỀM 1\Vietnam_volume_cleaned.csv"
-PRICE_PATH = r"C:\Users\Dell\OneDrive\Documents\GÓI PHẦN MỀM 1\Vietnam_Price_cleaned.csv"
-SECTOR_PATH = r"C:\Users\Dell\OneDrive\Documents\GÓI PHẦN MỀM 1\Phan_loai_nganh.csv"
-INVESTOR_DATA_PATH = r"C:\Users\Dell\OneDrive\Documents\GÓI PHẦN MỀM 1\combined_data.csv"
+VOLUME_PATH = st.file_uploader("Vietnam_volume_cleaned", type=["csv"])
+PRICE_PATH = st.file_uploader("Vietnam_Price_cleaned", type=["csv"])
+SECTOR_PATH = st.file_uploader("Phan_loai_nganh", type=["csv"])
+INVESTOR_DATA_PATH = st.file_uploader("combined_data", type=["csv"])
 
 # Thiết lập trang
 st.set_page_config(page_title="Dashboard Giao dịch Toàn diện", layout="wide")
