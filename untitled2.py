@@ -7,10 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/172Fxylhn1ESqtAuaQ-vh-U9kPIwMjLfu
 """
 
-!pip install streamlit
-
-!pip install fpdf
-
 import streamlit as st
 import pandas as pd
 import numpy as np
