@@ -32,17 +32,17 @@ COLOR_MAP = {
 }
 
 # File paths
-VOLUME_PATH = r"https://raw.githubusercontent.com/ThuyTien121/GPM1-ASSIGNMENT3/main/Vietnam_volume_cleaned.csv"
-PRICE_PATH = r"https://raw.githubusercontent.com/ThuyTien121/GPM1-ASSIGNMENT3/main/Vietnam_Price_cleaned.csv"
-SECTOR_PATH = r"https://raw.githubusercontent.com/ThuyTien121/GPM1-ASSIGNMENT3/main/Phan_loai_nganh.csv"
-INVESTOR_DATA_PATH = r"https://raw.githubusercontent.com/ThuyTien121/GPM1-ASSIGNMENT3/main/combined_data.csv"
+VOLUME_PATH = r"C:\Users\Dell\OneDrive\Documents\GÓI PHẦN MỀM 1\Vietnam_volume_cleaned.csv"
+PRICE_PATH = r"C:\Users\Dell\OneDrive\Documents\GÓI PHẦN MỀM 1\Vietnam_Price_cleaned.csv"
+SECTOR_PATH = r"C:\Users\Dell\OneDrive\Documents\GÓI PHẦN MỀM 1\Phan_loai_nganh.csv"
+INVESTOR_DATA_PATH = r"C:\Users\Dell\OneDrive\Documents\GÓI PHẦN MỀM 1\combined_data.csv"
 
 # Thiết lập trang
 st.set_page_config(page_title="Dashboard Giao dịch Toàn diện", layout="wide")
 
 # Hàm tải và xử lý dữ liệu từ script 1
 @st.cache_data
-def load_and_prepare_trade_data(volume_path, price_path, sector_path, start_date, end_date):
+def load_and_prepare_trade_data(VOLUME_PATH, PRICE_PATH, SECTOR_PATH, start_date, end_date):
     start_date = pd.Timestamp(start_date)
     end_date = pd.Timestamp(end_date)
 
@@ -64,9 +64,9 @@ def load_and_prepare_trade_data(volume_path, price_path, sector_path, start_date
             chunk_list.append(chunk)
         return pd.concat(chunk_list, ignore_index=True) if chunk_list else pd.DataFrame()
 
-    df_volume = read_volume_wide(volume_path, start_date, end_date)
-    df_price = read_price_wide(price_path, start_date, end_date)
-    df_sector = pd.read_csv(sector_path)
+    df_volume = read_volume_wide(VOLUME_PATH, start_date, end_date)
+    df_price = read_price_wide(PRICE_PATH, start_date, end_date)
+    df_sector = pd.read_csv(SECTOR_PATH)
     if 'Mã' in df_sector.columns:
         df_sector.rename(columns={'Mã': 'Code'}, inplace=True)
     
