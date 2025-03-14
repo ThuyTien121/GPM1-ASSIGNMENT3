@@ -1,0 +1,1663 @@
+STT,Mã,Tên công ty,Sàn,Ngành ICB - cấp 1,Ngành ICB - cấp 2,Ngành ICB - cấp 3,Ngành ICB - cấp 4
+1,ACB,ACB,HOSE,Ngân hàng,Ngân hàng,Ngân hàng,Ngân hàng
+2,BCM,Becamex IDC,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+3,BID,BIDV,HOSE,Ngân hàng,Ngân hàng,Ngân hàng,Ngân hàng
+4,BVH,Tập đoàn Bảo Việt,HOSE,Tài chính,Bảo hiểm,Bảo hiểm nhân thọ,Bảo hiểm nhân thọ
+5,CTG,VietinBank,HOSE,Ngân hàng,Ngân hàng,Ngân hàng,Ngân hàng
+6,FPT,FPT Corp,HOSE,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Phần mềm
+7,GAS,PV Gas,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt
+8,GVR,Tập đoàn CN Cao su VN,HOSE,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+9,HDB,HDBank,HOSE,Ngân hàng,Ngân hàng,Ngân hàng,Ngân hàng
+10,HPG,Hòa Phát,HOSE,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+11,LPB,LPBank,HOSE,Ngân hàng,Ngân hàng,Ngân hàng,Ngân hàng
+12,MBB,MBBank,HOSE,Ngân hàng,Ngân hàng,Ngân hàng,Ngân hàng
+13,MSN,Tập đoàn Masan,HOSE,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+14,MWG,Thế giới di động,HOSE,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng
+15,PLX,Petrolimex,HOSE,Dầu khí,Dầu khí,Sản xuất Dầu khí,Sản xuất và Khai thác dầu khí
+16,SAB,SABECO,HOSE,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia
+17,SHB,SHB,HOSE,Ngân hàng,Ngân hàng,Ngân hàng,Ngân hàng
+18,SSB,SeABank,HOSE,Ngân hàng,Ngân hàng,Ngân hàng,Ngân hàng
+19,SSI,Chứng khoán SSI,HOSE,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+20,STB,Sacombank,HOSE,Ngân hàng,Ngân hàng,Ngân hàng,Ngân hàng
+21,TCB,Techcombank,HOSE,Ngân hàng,Ngân hàng,Ngân hàng,Ngân hàng
+22,TPB,TPBank,HOSE,Ngân hàng,Ngân hàng,Ngân hàng,Ngân hàng
+23,VCB,Vietcombank,HOSE,Ngân hàng,Ngân hàng,Ngân hàng,Ngân hàng
+24,VHM,Vinhomes,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+25,VIB,VIBBank,HOSE,Ngân hàng,Ngân hàng,Ngân hàng,Ngân hàng
+26,VIC,VinGroup,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+27,VJC,Vietjet Air,HOSE,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Dịch vụ hàng không
+28,VNM,VINAMILK,HOSE,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+29,VPB,VPBank,HOSE,Ngân hàng,Ngân hàng,Ngân hàng,Ngân hàng
+30,VRE,Vincom Retail,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+31,AAA,An Phát Bioplastics,HOSE,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+32,AAM,Thủy sản Mekong,HOSE,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+33,AAT,Tập đoàn Tiên Sơn Thanh Hóa,HOSE,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+34,ABR,Đầu tư Nhãn Hiệu Việt,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Tư vấn & Hỗ trợ KD
+35,ABS,DV Nông nghiệp Bình Thuận,HOSE,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+36,ABT,Thủy sản Bến Tre,HOSE,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+37,ACC,Đầu tư và XD Bình Dương ACC,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+38,ACG,Gỗ An Cường,HOSE,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ
+39,ACL,Thủy sản CL An Giang,HOSE,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+40,ADG,Clever Group,HOSE,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,Dịch vụ truyền thông
+41,ADP,Sơn Á Đông,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+42,ADS,Dệt sợi DAMSAN,HOSE,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+43,AGG,Bất động sản An Gia,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+44,AGM,XNK An Giang,HOSE,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+45,AGR,Agriseco,HOSE,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+46,ANV,Thủy sản Nam Việt,HOSE,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+47,APG,Chứng khoán APG,HOSE,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+48,APH,Tập đoàn An Phát Holdings,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói
+49,ASG,Tập đoàn ASG,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+50,ASM,Tập đoàn Sao Mai,HOSE,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+51,ASP,Dầu khí An Pha,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt
+52,AST,Dịch vụ Hàng không Taseco,HOSE,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng
+53,ATP,T.Mại và DV An Thành,HOSE,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+54,BAF,Nông nghiệp BAF Việt Nam,HOSE,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+55,BBC,Bánh kẹo BIBICA,HOSE,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+56,BCE,XD và GT Bình Dương,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+57,BCG,Bamboo Capital,HOSE,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Tài chính đặc biệt
+58,BFC,Phân bón Bình Điền,HOSE,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+59,BHN,HABECO,HOSE,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia
+60,BIC,Bảo hiểm BIDV,HOSE,Tài chính,Bảo hiểm,Bảo hiểm phi nhân thọ,Bảo hiểm phi nhân thọ
+61,BKG,Đầu tư BKG Việt Nam,HOSE,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng gia dụng,Thiết bị gia dụng
+62,BMC,Khoáng sản Bình Định,HOSE,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng
+63,BMI,Bảo hiểm Bảo Minh,HOSE,Tài chính,Bảo hiểm,Bảo hiểm phi nhân thọ,Bảo hiểm phi nhân thọ
+64,BMP,Nhựa Bình Minh,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+65,BRC,Cao su Bến Thành,HOSE,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+66,BSI,Chứng khoán BIDV,HOSE,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+67,BSR,Lọc Hóa dầu Bình Sơn,HOSE,Dầu khí,Dầu khí,Sản xuất Dầu khí,Sản xuất và Khai thác dầu khí
+68,BTP,Nhiệt điện Bà Rịa,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+69,BTT,TM - DV Bến Thành,HOSE,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Bán lẻ phức hợp
+70,BWE,Nước - Môi trường Bình Dương,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+71,C32,CIC39,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+72,C47,Xây dựng 47,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+73,CCI,CIDICO,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt
+74,CCL,ĐT & PT Đô thị Dầu khí Cửu Long,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+75,CDC,Chương Dương Corp,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+76,CHP,Thủy điện Miền Trung,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+77,CIG,Xây dựng COMA 18,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+78,CII,Hạ tầng Kỹ thuật TP.HCM,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+79,CKG,Xây dựng Kiên Giang,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+80,CLC,Thuốc lá Cát Lợi,HOSE,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Thuốc lá,Thuốc lá
+81,CLL,Cảng Cát Lái,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+82,CLW,Cấp nước Chợ Lớn,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+83,CMG,Tập đoàn Công nghệ CMC,HOSE,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Dịch vụ Máy tính
+84,CMV,Thương nghiệp Cà Mau,HOSE,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Bán lẻ phức hợp
+85,CMX,CAMIMEX Group,HOSE,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+86,CNG,CNG Việt Nam,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt
+87,COM,Vật tư Xăng dầu,HOSE,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng
+88,CRC,Create Capital Việt Nam,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+89,CRE,Bất động sản Thế Kỷ,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+90,CRV,Tập đoàn Bất động sản CRV,HOSE,Tài chính,Bất động sản,Bất động sản,"Tư Vấn, Định giá, Môi giới Bất động sản"
+91,CSM,Cao su Miền Nam,HOSE,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Lốp xe
+92,CSV,Hóa chất Cơ bản miền Nam,HOSE,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+93,CTD,Xây dựng Coteccons,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+94,CTF,City Auto,HOSE,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô
+95,CTI,Cường Thuận IDICO,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+96,CTR,Công trình Viettel,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+97,CTS,Chứng khoán Vietinbank,HOSE,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+98,CVT,CMC JSC,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+99,D2D,Phát triển Đô thị số 2,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+100,DAH,Tập đoàn Khách sạn Đông Á,HOSE,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Khách sạn
+101,DAT,ĐT Du lịch và PT Thủy sản,HOSE,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+102,DBC,Tập đoàn DABACO,HOSE,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+103,DBD,Dược - TB Y tế Bình Định,HOSE,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+104,DBT,Dược phẩm Bến Tre,HOSE,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+105,DC4,Xây dựng DIC Holdings,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+106,DCL,Dược phẩm Cửu Long,HOSE,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+107,DCM,Đạm Cà Mau,HOSE,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+108,DGC,Hóa chất Đức Giang,HOSE,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+109,DGW,Thế Giới Số,HOSE,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng
+110,DHA,Hóa An,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+111,DHC,Đông Hải Bến Tre,HOSE,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Sản xuất giấy
+112,DHG,Dược Hậu Giang,HOSE,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+113,DHM,Khoáng sản Dương Hiếu,HOSE,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng
+114,DIG,DIC Corp,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+115,DLG,Đức Long Gia Lai,HOSE,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ
+116,DMC,Dược phẩm DOMESCO,HOSE,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+117,DPG,Tập đoàn Đạt Phương,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+118,DPM,Tổng Công ty Phân bón và Hóa chất Dầu khí,HOSE,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+119,DPR,Cao su Đồng Phú,HOSE,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+120,DQC,Tập đoàn Điện Quang,HOSE,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng gia dụng,Thiết bị gia dụng
+121,DRC,Cao su Đà Nẵng,HOSE,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Lốp xe
+122,DRH,DRH Holdings,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+123,DRL,Thủy điện - Điện lực 3,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+124,DSC,Chứng khoán DSC,HOSE,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+125,DSE,Chứng Khoán DNSE,HOSE,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+126,DSN,Công viên nước Đầm Sen,HOSE,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Dịch vụ giải trí
+127,DTA,BĐS Đệ Tam,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+128,DTL,Đại Thiên Lộc,HOSE,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+129,DTT,Kỹ nghệ Đô Thành,HOSE,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+130,DVP,ĐT và PT Cảng Đình Vũ,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+131,DXG,Địa ốc Đất Xanh,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+132,DXS,Dịch vụ BĐS Đất Xanh,HOSE,Tài chính,Bất động sản,Bất động sản,"Tư Vấn, Định giá, Môi giới Bất động sản"
+133,DXV,Vật liệu Xây dựng Đà Nẵng,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+134,E1VFVN30,Quỹ ETF DCVFMVN30,HOSE,Tài chính,Dịch vụ tài chính,Quỹ đầu tư,Quỹ đầu tư
+135,EIB,Eximbank,HOSE,Ngân hàng,Ngân hàng,Ngân hàng,Ngân hàng
+136,ELC,ELCOM,HOSE,Công nghệ Thông tin,Công nghệ Thông tin,Thiết bị và Phần cứng,Thiết bị viễn thông
+137,EVE,Everpia,HOSE,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+138,EVF,Tài chính Điện lực,HOSE,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Tài chính cá nhân
+139,EVG,Tập đoàn Everland,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+140,FCM,Khoáng sản FECON,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+141,FCN,FECON CORP,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+142,FDC,FIDECO,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+143,FIR,Địa ốc First Real,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+144,FIT,Tập đoàn F.I.T,HOSE,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+145,FMC,Thực phẩm Sao Ta,HOSE,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+146,FRT,Bán lẻ FPT,HOSE,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng
+147,FTS,Chứng khoán FPT,HOSE,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+148,FUCTVGF3,Quỹ Đầu tư Tăng trưởng Thiên Việt 3,HOSE,Tài chính,Dịch vụ tài chính,Quỹ đầu tư,Quỹ đầu tư
+149,FUCTVGF4,Quỹ Đầu tư Tăng trưởng Thiên Việt 4,HOSE,Tài chính,Dịch vụ tài chính,Quỹ đầu tư,Quỹ đầu tư
+150,FUCTVGF5,Quỹ Đầu tư Tăng trưởng Thiên Việt 5,HOSE,Tài chính,Dịch vụ tài chính,Quỹ đầu tư,Quỹ đầu tư
+151,FUCVREIT,Quỹ Đầu tư BĐS Techcom Việt Nam,HOSE,Tài chính,Dịch vụ tài chính,Quỹ đầu tư,Quỹ đầu tư
+152,FUEABVND,Quỹ ETF ABFVN DIAMOND,HOSE,Tài chính,Dịch vụ tài chính,Quỹ đầu tư,Quỹ đầu tư
+153,FUEBFVND,ETF BVFVN DIAMOND,HOSE,Tài chính,Dịch vụ tài chính,Quỹ đầu tư,Quỹ đầu tư
+154,FUEDCMID,Quỹ ETF DCVFMVNMIDCAP,HOSE,Tài chính,Dịch vụ tài chính,Quỹ đầu tư,Quỹ đầu tư
+155,FUEFCV50,Quỹ ETF FPT CAPITAL VNX50,HOSE,Tài chính,Dịch vụ tài chính,Quỹ đầu tư,Quỹ đầu tư
+156,FUEIP100,ETF IPAAM VN100,HOSE,Tài chính,Dịch vụ tài chính,Quỹ đầu tư,Quỹ đầu tư
+157,FUEKIV30,KIM GROWTH VN30 ETF,HOSE,Tài chính,Dịch vụ tài chính,Quỹ đầu tư,Quỹ đầu tư
+158,FUEKIVFS,KIM GROWTH VNFINSELECT ETF,HOSE,Tài chính,Dịch vụ tài chính,Quỹ đầu tư,Quỹ đầu tư
+159,FUEKIVND,Quỹ ETF KIM GROWTH VN DIAMOND,HOSE,Tài chính,Dịch vụ tài chính,Quỹ đầu tư,Quỹ đầu tư
+160,FUEMAV30,Quỹ ETF MAFM VN30,HOSE,Tài chính,Dịch vụ tài chính,Quỹ đầu tư,Quỹ đầu tư
+161,FUEMAVND,Quỹ ETF MAFM VNDIAMOND,HOSE,Tài chính,Dịch vụ tài chính,Quỹ đầu tư,Quỹ đầu tư
+162,FUESSV30,Quỹ ETF SSIAM VN30,HOSE,Tài chính,Dịch vụ tài chính,Quỹ đầu tư,Quỹ đầu tư
+163,FUESSV50,Quỹ ETF SSIAM VNX50,HOSE,Tài chính,Dịch vụ tài chính,Quỹ đầu tư,Quỹ đầu tư
+164,FUESSVFL,Quỹ ETF SSIAM VNFIN LEAD,HOSE,Tài chính,Dịch vụ tài chính,Quỹ đầu tư,Quỹ đầu tư
+165,FUETCC50,Quỹ ETF TECHCOM CAPITAL VNX50,HOSE,Tài chính,Dịch vụ tài chính,Quỹ đầu tư,Quỹ đầu tư
+166,FUEVFVND,Quỹ ETF DCVFMVN DIAMOND,HOSE,Tài chính,Dịch vụ tài chính,Quỹ đầu tư,Quỹ đầu tư
+167,FUEVN100,Quỹ ETF VINACAPITAL VN100,HOSE,Tài chính,Dịch vụ tài chính,Quỹ đầu tư,Quỹ đầu tư
+168,GDT,Gỗ Đức Thành,HOSE,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng gia dụng,Thiết bị gia dụng
+169,GEE,Thiết bị điện GELEX,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Thiết bị điện
+170,GEG,Điện Gia Lai,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+171,GEX,Tập đoàn Gelex,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Thiết bị điện
+172,GIL,XNK Bình Thạnh,HOSE,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+173,GMD,Gemadept,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+174,GMH,Minh Hưng Quảng Trị,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+175,GSP,Vận tải Sản phẩm Khí Quốc tế,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy
+176,GTA,Gỗ Thuận An,HOSE,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ
+177,HAG,Hoàng Anh Gia Lai,HOSE,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+178,HAH,Vận tải và Xếp dỡ Hải An,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+179,HAP,Tập đoàn Hapaco,HOSE,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Sản xuất giấy
+180,HAR,BĐS An Dương Thảo Điền,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+181,HAS,Hacisco,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+182,HAX,Ô tô Hàng Xanh,HOSE,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô
+183,HCD,SX và Thương mại HCD,HOSE,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+184,HCM,Chứng khoán HSC,HOSE,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+185,HDC,Phát triển Nhà BR-VT,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+186,HDG,Tập đoàn Hà Đô,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+187,HHP,HHP Global,HOSE,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Sản xuất giấy
+188,HHS,Đầu tư DV Hoàng Huy,HOSE,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô
+189,HHV,Đầu tư Hạ tầng Giao thông Đèo Cả,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+190,HID,Halcom Vietnam,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+191,HII,An Tiến Industries,HOSE,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+192,HMC,Kim khí TP.HCM,HOSE,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+193,HNA,Thủy điện Hủa Na,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+194,HPX,Đầu tư Hải Phát,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+195,HQC,Địa ốc Hoàng Quân,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+196,HRC,Cao su Hòa Bình,HOSE,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+197,HSG,Tập đoàn Hoa Sen,HOSE,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+198,HSL,Thực phẩm Hồng Hà,HOSE,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+199,HT1,VICEM Hà Tiên,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+200,HTG,Dệt may Hòa Thọ,HOSE,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+201,HTI,PT Hạ tầng IDICO,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+202,HTL,Ô tô Trường Long,HOSE,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô
+203,HTN,Hưng Thịnh Incons,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+204,HTV,Logistics Vicem,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy
+205,HU1,Xây dựng HUD1,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+206,HUB,Xây lắp Huế,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+207,HVH,Đầu tư và Công nghệ HVC,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+208,HVN,Vietnam Airlines,HOSE,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Dịch vụ hàng không
+209,HVX,Xi măng Vicem Hải Vân,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+210,ICT,Viễn thông - Tin học Bưu điện,HOSE,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Phần mềm
+211,IDI,Đầu tư và PT Đa Quốc Gia,HOSE,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+212,IJC,Becamex IJC,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+213,ILB,ICD Tân Cảng Long Bình,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+214,IMP,IMEXPHARM,HOSE,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+215,ITC,Đầu tư kinh doanh Nhà,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+216,ITD,Công nghệ Tiên Phong,HOSE,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Phần mềm
+217,JVC,Đầu tư và Phát triển Y tế Việt Nhật,HOSE,Dược phẩm và Y tế,Y tế,Thiết bị và Dịch vụ Y tế,Thiết bị y tế
+218,KBC,TCT Đô thị Kinh Bắc,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+219,KDC,Tập đoàn KIDO,HOSE,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+220,KDH,Nhà Khang Điền,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+221,KHG,Tập đoàn Khải Hoàn Land,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+222,KHP,Điện lực Khánh Hòa,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+223,KMR,MIRAE,HOSE,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+224,KOS,Công ty KOSY,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+225,KPF,Đầu tư Tài sản KOJI,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+226,KSB,Khoáng sản Bình Dương,HOSE,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng
+227,L10,LILAMA 10,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp
+228,LAF,Chế biến Hàng XK Long An,HOSE,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+229,LBM,Khoáng sản Lâm Đồng,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+230,LCG,LIZEN,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+231,LDG,Đầu tư LDG,HOSE,Tài chính,Bất động sản,Bất động sản,"Tư Vấn, Định giá, Môi giới Bất động sản"
+232,LEC,BĐS Điện lực Miền Trung,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+233,LGC,Đầu tư Cầu đường CII,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+234,LGL,Long Giang Land,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+235,LHG,KCN Long Hậu,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+236,LIX,Bột Giặt Lix,HOSE,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng cá nhân
+237,LM8,LILAMA 18,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+238,LSS,Mía đường Lam Sơn,HOSE,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+239,MCM,Giống bò sữa Mộc Châu,HOSE,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+240,MCP,In và Bao bì Mỹ Châu,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói
+241,MDG,Xây dựng Miền Đông,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+242,MHC,CTCP MHC,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải
+243,MIG,Bảo hiểm Quân đội,HOSE,Tài chính,Bảo hiểm,Bảo hiểm phi nhân thọ,Bảo hiểm phi nhân thọ
+244,MSB,MSB Bank,HOSE,Ngân hàng,Ngân hàng,Ngân hàng,Ngân hàng
+245,MSH,May Sông Hồng,HOSE,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+246,NAB,Ngân hàng Nam Á,HOSE,Ngân hàng,Ngân hàng,Ngân hàng,Ngân hàng
+247,NAF,Nafoods Group,HOSE,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Đồ uống & giải khát
+248,NAV,Tấm lợp và gỗ Nam Việt,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+249,NBB,577 CORP,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+250,NCT,DV Hàng hóa Nội Bài,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+251,NHA,PT Nhà và Đô thị Nam HN,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+252,NHH,Nhựa Hà Nội,HOSE,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+253,NHT,Sản xuất và Thương mại Nam Hoa,HOSE,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng hóa giải trí,Đồ chơi
+254,NKG,Thép Nam Kim,HOSE,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+255,NLG,BĐS Nam Long,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+256,NNC,Đá Núi Nhỏ,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+257,NO1,Tâp đoàn 911,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp
+258,NSC,Tập đoàn Giống cây trồng Việt Nam,HOSE,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+259,NT2,Điện lực Nhơn Trạch 2,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+260,NTL,Đô thị Từ Liêm,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+261,NVL,Novaland,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+262,NVT,Ninh Vân Bay,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+263,OCB,Ngân hàng Phương Đông,HOSE,Ngân hàng,Ngân hàng,Ngân hàng,Ngân hàng
+264,OGC,Tập đoàn Đại Dương,HOSE,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Tài chính đặc biệt
+265,OPC,Dược phẩm OPC,HOSE,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+266,ORS,Chứng khoán Tiên Phong,HOSE,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+267,PAC,Pin Ắc quy Miền Nam,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Hàng điện & điện tử
+268,PAN,Tập đoàn PAN,HOSE,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+269,PC1,Tập đoàn PC1,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+270,PDN,Cảng Đồng Nai,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+271,PDR,BĐS Phát Đạt,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+272,PET,Dịch vụ Tổng hợp Dầu khí,HOSE,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng
+273,PGC,Gas Petrolimex,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt
+274,PGD,PV GAS D,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt
+275,PGI,Bảo hiểm PJICO,HOSE,Tài chính,Bảo hiểm,Bảo hiểm phi nhân thọ,Bảo hiểm phi nhân thọ
+276,PGV,Tổng Công ty Phát điện 3,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+277,PHC,Xây dựng Phục Hưng Holdings,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+278,PHR,Cao su Phước Hòa,HOSE,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+279,PIT,XNK PETROLIMEX,HOSE,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Bán lẻ phức hợp
+280,PJT,Vận tải thủy PETROLIMEX,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy
+281,PLP,SX và CN Nhựa Pha Lê,HOSE,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+282,PMG,ĐT và SX Petro Miền Trung,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt
+283,PNC,Văn hóa Phương Nam,HOSE,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa"
+284,PNJ,Vàng Phú Nhuận,HOSE,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng cá nhân
+285,POW,Điện lực Dầu khí Việt Nam,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+286,PPC,Nhiệt điện Phả Lại,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+287,PSH,TMại ĐT Dầu khí Nam Sông Hậu,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt
+288,PTB,Công ty Cổ phần Phú Tài,HOSE,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ
+289,PTC,Đầu tư ICAPITAL,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+290,PTL,Victory Group,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+291,PVD,Khoan Dầu khí PVDrilling,HOSE,Dầu khí,Dầu khí,"Thiết bị, Dịch vụ và Phân phối Dầu khí",Thiết bị và Dịch vụ Dầu khí
+292,PVP,Vận tải Dầu khí Thái Bình Dương,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải
+293,PVT,Vận tải Dầu khí PVTrans,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy
+294,QCG,Quốc Cường Gia Lai,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+295,QNP,Cảng Quy Nhơn,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+296,RAL,Bóng đèn Phích nước Rạng Đông,HOSE,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng gia dụng,Thiết bị gia dụng
+297,RDP,Nhựa Rạng Đông,HOSE,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+298,REE,Cơ Điện Lạnh REE,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+299,RYG,Sản xuất và Đầu tư Hoàng Gia,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+300,S4A,Thủy điện Sê San 4A,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+301,SAM,SAM Holdings,HOSE,Công nghệ Thông tin,Công nghệ Thông tin,Thiết bị và Phần cứng,Thiết bị viễn thông
+302,SAV,Savimex,HOSE,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ
+303,SBA,Sông Ba JSC,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+304,SBG,Tập Đoàn Cơ Khí Công Nghệ Cao Siba,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Công nghiệp phức hợp
+305,SBT,Mía đường Thành Thành Công - Biên Hòa,HOSE,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+306,SBV,Siam Brothers Việt Nam,HOSE,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng
+307,SC5,Xây dựng Số 5,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+308,SCR,TTC Land,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+309,SCS,DV Hàng hóa Sài Gòn,HOSE,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Dịch vụ hàng không
+310,SFC,Nhiên liệu Sài Gòn,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt
+311,SFG,Phân bón Miền Nam,HOSE,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+312,SFI,Vận tải SAFI,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy
+313,SGN,Phục vụ mặt đất Sài Gòn,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+314,SGR,Địa ốc Sài Gòn,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+315,SGT,Sài Gòn Telecom,HOSE,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Internet
+316,SHA,Sơn Hà Sài Gòn,HOSE,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+317,SHI,Quốc tế Sơn Hà,HOSE,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+318,SHP,Thủy điện Miền Nam,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+319,SIP,Đầu tư Sài Gòn VRG,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+320,SJD,Thủy điện Cần Đơn,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+321,SJS,SJ Group,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+322,SKG,Tàu Cao tốc Superdong,HOSE,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch
+323,SMA,Thiết bị Phụ tùng Sài Gòn,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+324,SMB,Bia Sài Gòn - Miền Trung,HOSE,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia
+325,SMC,Đầu tư Thương mại SMC,HOSE,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+326,SPM,S.P.M CORP,HOSE,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+327,SRC,Cao su Sao Vàng,HOSE,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Lốp xe
+328,SRF,SEAREFICO,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp
+329,SSC,Giống cây trồng Miền Nam,HOSE,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+330,ST8,Tập đoàn ST8,HOSE,Công nghệ Thông tin,Công nghệ Thông tin,Thiết bị và Phần cứng,Thiết bị văn phòng
+331,STG,Kho Vận Miền Nam,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+332,STK,Sợi Thế Kỷ,HOSE,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+333,SVC,SAVICO,HOSE,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô
+334,SVD,Đầu tư & Thương mại Vũ Đăng,HOSE,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+335,SVI,Bao bì Biên Hòa,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói
+336,SVT,Công nghệ SG Viễn Đông,HOSE,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Sản xuất giấy
+337,SZC,Sonadezi Châu Đức,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+338,SZL,Sonadezi Long Thành,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+339,TBC,Thủy điện Thác Bà,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+340,TCD,Tập đoàn Xây dựng Tracodi,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+341,TCH,ĐT DV Tài chính Hoàng Huy,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+342,TCI,Chứng khoán Thành Công,HOSE,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+343,TCL,Tan Cang Logistics,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải
+344,TCM,Dệt may Thành Công,HOSE,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+345,TCO,TCO Holdings,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải
+346,TCR,Gốm sứ TAICERA,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+347,TCT,Cáp treo Tây Ninh,HOSE,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch
+348,TDC,Becamex TDC,HOSE,Tài chính,Bất động sản,Bất động sản,"Tư Vấn, Định giá, Môi giới Bất động sản"
+349,TDG,Đầu tư TDG Global,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt
+350,TDH,Thủ Đức House,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+351,TDM,Nước Thủ Dầu Một,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+352,TDP,Công ty Thuận Đức,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói
+353,TDW,Cấp nước Thủ Đức,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+354,TEG,TECGROUP,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+355,THG,XD Tiền Giang,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+356,TIP,PT KCN Tín Nghĩa,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+357,TIX,TANIMEX,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+358,TLD,ĐT XD và PT Đô thị Thăng Long,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+359,TLG,Tập đoàn Thiên Long,HOSE,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng gia dụng,Đồ gia dụng một lần
+360,TLH,Thép Tiến Lên,HOSE,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+361,TMP,Thủy điện Thác Mơ,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+362,TMS,Transimex,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+363,TMT,Ô tô TMT,HOSE,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô
+364,TN1,Rox Key Holdings,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+365,TNC,Cao su Thống Nhất,HOSE,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+366,TNH,Tập đoàn Bệnh viện TNH,HOSE,Dược phẩm và Y tế,Y tế,Thiết bị và Dịch vụ Y tế,Chăm sóc y tế
+367,TNI,Tập đoàn Thành Nam,HOSE,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+368,TNT,Tập đoàn TNT,HOSE,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng
+369,TPC,Nhựa Tân Đại Hưng,HOSE,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+370,TRA,Traphaco,HOSE,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+371,TRC,Cao su Tây Ninh,HOSE,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+372,TSC,Kỹ thuật NN Cần Thơ,HOSE,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+373,TTA,XD và PT Trường Thành,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+374,TTE,ĐT Năng lượng Trường Thịnh,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+375,TTF,Gỗ Trường Thành,HOSE,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ
+376,TV2,Tư vấn XD Điện 2,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Tư vấn & Hỗ trợ KD
+377,TVB,Chứng khoán Trí Việt,HOSE,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+378,TVS,Chứng khoán Thiên Việt,HOSE,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+379,TVT,May Việt Thắng,HOSE,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+380,TYA,Dây và Cáp điện Taya,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Hàng điện & điện tử
+381,UIC,Phát triển Nhà và Đô thị IDICO,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+382,VAF,Phân lân Văn Điển,HOSE,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+383,VCA,Thép VICASA - VNSTEEL,HOSE,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+384,VCF,VinaCafé Biên Hòa,HOSE,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Đồ uống & giải khát
+385,VCG,VINACONEX,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+386,VCI,Chứng khoán Vietcap,HOSE,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+387,VDP,Dược phẩm VIDIPHA,HOSE,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+388,VDS,Chứng khoán Rồng Việt,HOSE,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+389,VFG,Khử trùng Việt Nam,HOSE,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+390,VGC,Tổng Công ty Viglacera,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+391,VHC,Thủy sản Vĩnh Hoàn,HOSE,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+392,VID,Viễn Đông,HOSE,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Sản xuất giấy
+393,VIP,Vận tải Xăng dầu VIPCO,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy
+394,VIX,Chứng khoán VIX,HOSE,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+395,VMD,Y Dược phẩm Vimedimex,HOSE,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+396,VND,Chứng khoán VNDIRECT,HOSE,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+397,VNE,Xây dựng điện Việt Nam,HOSE,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+398,VNG,DL Thành Thành Công,HOSE,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Khách sạn
+399,VNL,Vinalink Logistics,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải
+400,VNS,Ánh Dương Việt Nam,HOSE,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch
+401,VOS,Vận tải Biển Việt Nam,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy
+402,VPD,Phát triển Điện lực Việt Nam,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+403,VPG,Đầu tư TMại XNK Việt Phát,HOSE,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng
+404,VPH,Vạn Phát Hưng,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+405,VPI,Đầu tư Văn Phú - Invest,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+406,VPS,Thuốc sát trùng Việt Nam,HOSE,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+407,VRC,Bất động sản và Đầu tư VRC,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+408,VSC,VICONSHIP,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+409,VSH,Thủy điện Vĩnh Sơn - Sông Hinh,HOSE,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+410,VSI,Đầu tư và Xây dựng Cấp thoát nước,HOSE,Tài chính,Bất động sản,Bất động sản,Bất động sản
+411,VTB,Viettronics Tân Bình,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Hàng điện & điện tử
+412,VTO,VITACO,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy
+413,VTP,Bưu chính Viettel,HOSE,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Chuyển phát nhanh
+414,YBM,Khoáng sản CN Yên Bái,HOSE,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng
+415,YEG,Tập đoàn Yeah1,HOSE,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,Giải trí & Truyền thông
+416,AAV,Việt Tiên Sơn Địa ốc,HNX,Tài chính,Bất động sản,Bất động sản,Bất động sản
+417,ADC,Mĩ thuật và Truyền thông,HNX,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa"
+418,ALT,Văn hóa Tân Bình,HNX,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa"
+419,AMC,Khoáng sản Á Châu,HNX,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng
+420,AME,Cơ điện Alphanam,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Thiết bị điện
+421,AMV,Dược-TB Y tế Việt Mỹ,HNX,Dược phẩm và Y tế,Y tế,Thiết bị và Dịch vụ Y tế,Thiết bị y tế
+422,API,Đầu tư Châu Á - Thái Bình Dương,HNX,Tài chính,Bất động sản,Bất động sản,Bất động sản
+423,APS,CK Châu Á - TBD,HNX,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+424,ARM,XNK Hàng không,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Nhà cung cấp thiết bị
+425,ATS,Tập đoàn Đầu tư ATS,HNX,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Nhà hàng và quán bar
+426,BAB,Ngân hàng Bắc Á,HNX,Ngân hàng,Ngân hàng,Ngân hàng,Ngân hàng
+427,BAX,Công ty Thống Nhất,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+428,BBS,Bao bì Xi măng Bút Sơn,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói
+429,BCC,Xi măng Bỉm Sơn,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+430,BCF,Thực phẩm Bích Chi,HNX,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+431,BCH,Dược Bảo Châu,HNX,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+432,BDB,Sách Bình Định,HNX,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa"
+433,BED,Sách Đà Nẵng,HNX,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa"
+434,BKC,Khoáng sản Bắc Kạn,HNX,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng
+435,BNA,Tập đoàn Đầu tư Bảo Ngọc,HNX,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+436,BPC,Bao bì Bỉm Sơn,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói
+437,BSC,Dịch vụ Bến Thành,HNX,Tài chính,Bất động sản,Bất động sản,Bất động sản
+438,BST,Sách và Thiết bị Bình Thuận,HNX,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa"
+439,BTS,Xi măng Bút Sơn,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+440,BTW,Cấp nước Bến Thành,HNX,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+441,BVS,Chứng khoán Bảo Việt,HNX,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+442,BXH,Bao bì Xi măng HP,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói
+443,C69,Xây dựng 1369,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+444,CAG,Cảng An Giang,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+445,CAN,Đồ hộp Hạ Long,HNX,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+446,CAP,Lâm nông sản Yên Bái,HNX,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Sản xuất giấy
+447,CAR,Tập đoàn Giáo dục Trí Việt,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Đào tạo & Việc làm
+448,CCR,Cảng Cam Ranh,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+449,CDN,Cảng Đà Nẵng,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+450,CEO,Tập đoàn CEO,HNX,Tài chính,Bất động sản,Bất động sản,Bất động sản
+451,CET,HTC Holding ,HNX,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng cá nhân
+452,CIA,DV Sân Bay Cam Ranh,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+453,CJC,Cơ điện Miền Trung,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Thiết bị điện
+454,CKV,CokyVina,HNX,Công nghệ Thông tin,Công nghệ Thông tin,Thiết bị và Phần cứng,Thiết bị viễn thông
+455,CLH,Xi măng La Hiên,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+456,CLM,Xuất nhập khẩu Than - Vinacomin,HNX,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai thác Than
+457,CMC,Đầu tư CMC,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp
+458,CMS,Tập đoàn CMH Việt Nam,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+459,CPC,Thuốc sát trùng Cần Thơ,HNX,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+460,CSC,Tập đoàn COTANA,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+461,CST,Than Cao Sơn - TKV,HNX,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai thác Than
+462,CTB,Bơm Hải Dương,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp
+463,CTP,Hoà Bình Takara,HNX,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Đồ uống & giải khát
+464,CTT,Chế tạo máy Vinacomin,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp
+465,CVN,Vinam Group,HNX,Dược phẩm và Y tế,Y tế,Thiết bị và Dịch vụ Y tế,Thiết bị y tế
+466,CX8,Constrexim số 8,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+467,D11,Địa ốc 11,HNX,Tài chính,Bất động sản,Bất động sản,Bất động sản
+468,DAD,Phát triển GD Đà Nẵng,HNX,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa"
+469,DAE,Sách Giáo dục Đà Nẵng,HNX,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa"
+470,DC2,DIC Số 2,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+471,DDG,Đầu tư CN XNK Đông Dương,HNX,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt
+472,DHP,Điện cơ Hải Phòng,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Thiết bị điện
+473,DHT,Dược phẩm Hà Tây,HNX,Dịch vụ Tiêu dùng,Bán lẻ,Phân phối thực phẩm & dược phẩm,Phân phối dược phẩm
+474,DIH,PT Xây dựng Hội An,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+475,DL1,Tập đoàn Alpha 7,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+476,DNC,Điện nước Hải Phòng,HNX,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+477,DNP,Nhựa Đồng Nai,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+478,DP3,Dược Phẩm TW3,HNX,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+479,DS3,Quản lý Đường sông số 3,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+480,DST,Đầu tư Sao Thăng Long,HNX,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa"
+481,DTC,Viglacera Đông Triều,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+482,DTD,Đầu tư Phát triển Thành Đạt,HNX,Tài chính,Bất động sản,Bất động sản,Bất động sản
+483,DTG,Dược phẩm Tipharco,HNX,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+484,DTK,Vinacomin Power,HNX,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+485,DVM,Dược liệu Việt Nam,HNX,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+486,DXP,Cảng Đoạn Xá,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+487,EBS,Sách Giáo dục Hà Nội,HNX,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa"
+488,ECI,Bản đồ và tranh ảnh GD,HNX,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa"
+489,EID,Phát triển GD Hà Nội,HNX,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa"
+490,EVS,Chứng khoán Everest,HNX,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+491,FID,Đầu tư và PT doanh nghiệp VN,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+492,GDW,Cấp nước Gia Định,HNX,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+493,GIC,ĐT Dịch vụ và PT Xanh,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+494,GKM,Khang Minh Group,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+495,GLT,KT Điện Toàn Cầu,HNX,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng hóa giải trí,Điện tử tiêu dùng
+496,GMA,G-Automobile,HNX,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô
+497,GMX,Gạch ngói Mỹ Xuân,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+498,HAD,Bia Hà Nội - Hải Dương,HNX,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia
+499,HAT,TM Bia Hà Nội,HNX,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia
+500,HBS,Chứng khoán Hòa Bình,HNX,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+501,HCC,Bê tông Hòa Cầm,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+502,HCT,TM - DV - Vận tải Xi măng Hải Phòng ,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải
+503,HDA,Hãng sơn Đông Á,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+504,HEV,Sách Đại học - Dạy nghề,HNX,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa"
+505,HGM,Khoáng sản Hà Giang,HNX,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng
+506,HHC,Bánh kẹo Hải Hà,HNX,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+507,HJS,Thủy điện Nậm Mu,HNX,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+508,HKT,Đầu tư QP Xanh,HNX,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Đồ uống & giải khát
+509,HLC,Than Hà Lầm,HNX,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai thác Than
+510,HLD,Bất động sản HUDLAND,HNX,Tài chính,Bất động sản,Bất động sản,Bất động sản
+511,HMH,Tập đoàn Hải Minh,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải
+512,HMR,Đá Hoàng Mai,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+513,HOM,Xi măng VICEM Hoàng Mai,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+514,HTC,Thương mại Hóc Môn,HNX,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt
+515,HUT,Tasco,HNX,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô
+516,HVT,Hóa chất Việt trì,HNX,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+517,ICG,Xây dựng Sông Hồng,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+518,IDC,IDICO,HNX,Tài chính,Bất động sản,Bất động sản,Bất động sản
+519,IDJ,Đầu tư IDJ Việt Nam,HNX,Tài chính,Bất động sản,Bất động sản,Bất động sản
+520,IDV,PT Hạ tầng Vĩnh Phúc,HNX,Tài chính,Bất động sản,Bất động sản,Bất động sản
+521,INC,Tư vấn Đầu tư IDICO,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+522,INN,Bao bì và In Nông Nghiệp,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói
+523,IPA,Tập đoàn Đầu tư I.P.A,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Tư vấn & Hỗ trợ KD
+524,ITQ,Tập đoàn Thiên Quang,HNX,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+525,IVS,Chứng khoán Guotai Junan (Việt Nam),HNX,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+526,KDM,Tập đoàn GCL,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+527,KHS,Thủy sản Kiên Hùng,HNX,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+528,KKC,Tập đoàn Thành Thái,HNX,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+529,KMT,Kim khí Miền Trung,HNX,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+530,KSD,Đầu tư DNA,HNX,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng gia dụng,Đồ gia dụng lâu bền
+531,KSF,Tập đoàn Sunshine,HNX,Tài chính,Bất động sản,Bất động sản,Bất động sản
+532,KSQ,CNC Capital Việt Nam,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+533,KST,KASATI,HNX,Công nghệ Thông tin,Công nghệ Thông tin,Thiết bị và Phần cứng,Thiết bị viễn thông
+534,KSV,Khoáng sản TKV,HNX,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng
+535,KTS,Đường Kon Tum,HNX,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+536,L14,Licogi 14,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+537,L18,LICOGI - 18,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+538,L40,Đầu tư và Xây dựng 40,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+539,LAS,Hóa chất Lâm Thao,HNX,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+540,LBE,Thương mại và Dịch vụ LVA,HNX,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa"
+541,LCD,Thí nghiệm cơ điện,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+542,LDP,Dược Lâm Đồng - Ladophar,HNX,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+543,LHC,XD Thủy lợi Lâm Đồng,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+544,LIG,Licogi 13,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+545,MAC,Cung ứng & DVKT Hàng Hải,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Xe tải & Đóng tàu
+546,MAS,Sân bay Đà Nẵng,HNX,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch
+547,MBG,Tập đoàn MBG,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+548,MBS,Chứng khoán MB,HNX,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+549,MCC,Gạch ngói cao cấp,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+550,MCF,Cơ khí và Lương thực Thực phẩm,HNX,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+551,MCO,BDC Việt Nam,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+552,MDC,Than Mông Dương,HNX,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai thác Than
+553,MDD,Công ty Mai Động,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp
+554,MED,Dược Mediplantex,HNX,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+555,MEL,Thép Mê Lin,HNX,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+556,MKV,Dược Thú Y Cai Lậy,HNX,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+557,MST,Đầu tư MST,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+558,MVB,Mỏ Việt Bắc - TKV,HNX,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng
+559,NAG,Tập đoàn Nagakawa,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Hàng điện & điện tử
+560,NAP,Cảng Nghệ Tĩnh,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+561,NBC,Than Núi Béo,HNX,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai thác Than
+562,NBP,Nhiệt điện Ninh Bình,HNX,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+563,NBW,Cấp nước Nhà Bè,HNX,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+564,NDN,PT Nhà Đà Nẵng,HNX,Tài chính,Bất động sản,Bất động sản,Bất động sản
+565,NDX,Phát triển Nhà Đà Nẵng,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+566,NET,Bột giặt Net,HNX,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng cá nhân
+567,NFC,Phân lân Ninh Bình,HNX,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+568,NHC,Gạch ngói Nhị Hiệp,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+569,NRC,Tập đoàn Danh Khôi,HNX,Tài chính,Bất động sản,Bất động sản,Bất động sản
+570,NSH,Nhôm Sông Hồng,HNX,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Nhôm
+571,NST,Thuốc lá Ngân Sơn,HNX,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Thuốc lá,Thuốc lá
+572,NTH,Thủy điện Nước Trong,HNX,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+573,NTP,Nhựa Tiền Phong,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+574,NVB,Ngân hàng Quốc Dân,HNX,Ngân hàng,Ngân hàng,Ngân hàng,Ngân hàng
+575,OCH,Khách sạn và Dịch vụ OCH,HNX,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+576,ONE,Truyền thông Số 1,HNX,Công nghệ Thông tin,Công nghệ Thông tin,Thiết bị và Phần cứng,Phần cứng
+577,PBP,Bao bì Dầu khí VN,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói
+578,PCE,Phân bón và Hóa chất DK Miền Trung,HNX,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+579,PCG,Đầu tư PT Gas Đô thị,HNX,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt
+580,PCH,Nhựa Picomat,HNX,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+581,PCT,Vận tải Biển Global Pacific,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải
+582,PDB,DIN Capital,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+583,PEN,Xây lắp III Petrolimex,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+584,PGN,Phụ Gia Nhựa,HNX,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+585,PGS,Khí Miền Nam,HNX,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt
+586,PGT,PGT Holdings,HNX,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch
+587,PHN,Pin Hà Nội,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Hàng điện & điện tử
+588,PIA,Tin học Viễn thông Petrolimex,HNX,Viễn thông,Viễn thông,Viễn thông cố định,Viễn thông cố định
+589,PIC,Đầu tư Điện lực 3,HNX,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+590,PJC,TM và Vận tải Petrolimex HN,HNX,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt
+591,PLC,Hóa dầu Petrolimex,HNX,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+592,PMB,Phân bón và Hóa chất Dầu khí Miền Bắc,HNX,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+593,PMC,Pharmedic,HNX,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+594,PMP,Bao bì Đạm Phú Mỹ,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói
+595,PMS,Cơ khí xăng dầu,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp
+596,POT,Thiết bị Bưu điện Postef,HNX,Công nghệ Thông tin,Công nghệ Thông tin,Thiết bị và Phần cứng,Phần cứng
+597,PPE,PVPower Engineering,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Tư vấn & Hỗ trợ KD
+598,PPP,PP.Pharco,HNX,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+599,PPS,DVKT Điện lực Dầu khí,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Tư vấn & Hỗ trợ KD
+600,PPT,Petro Times,HNX,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt
+601,PPY,Xăng dầu dầu khí Phú Yên,HNX,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt
+602,PRC,Vận tải Portserco,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải
+603,PRE,Tái bảo hiểm PVI,HNX,Tài chính,Bảo hiểm,Bảo hiểm phi nhân thọ,Tái bảo hiểm
+604,PSC,Vận tải Petrolimex SG,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải
+605,PSD,Phân phối Tổng hợp Dầu khí,HNX,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng
+606,PSE,Phân bón và hóa chất dầu khí Đông Nam Bộ,HNX,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+607,PSI,Chứng khoán Dầu khí,HNX,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+608,PSW,Phân bón hóa chất dầu khí Tây Nam Bộ,HNX,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+609,PTD,Thiết kế-XD-TM Phúc Thịnh,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+610,PTI,Bảo hiểm Bưu điện,HNX,Tài chính,Bảo hiểm,Bảo hiểm phi nhân thọ,Bảo hiểm phi nhân thọ
+611,PTS,Vận tải Petrolimex HP,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải
+612,PTX,VT Petrolimex Nghệ Tĩnh,HNX,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt
+613,PV2,Đầu tư PV2,HNX,Tài chính,Bất động sản,Bất động sản,Bất động sản
+614,PVB,Bọc ống Dầu khí Việt Nam,HNX,Dầu khí,Dầu khí,"Thiết bị, Dịch vụ và Phân phối Dầu khí",Thiết bị và Dịch vụ Dầu khí
+615,PVC,Hóa chất và Dịch vụ Dầu khí,HNX,Dầu khí,Dầu khí,"Thiết bị, Dịch vụ và Phân phối Dầu khí",Thiết bị và Dịch vụ Dầu khí
+616,PVG,Kinh doanh LPG Việt Nam,HNX,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt
+617,PVI,Bảo hiểm PVI,HNX,Tài chính,Bảo hiểm,Bảo hiểm phi nhân thọ,Bảo hiểm phi nhân thọ
+618,PVS,DVKT Dầu khí PTSC,HNX,Dầu khí,Dầu khí,"Thiết bị, Dịch vụ và Phân phối Dầu khí",Thiết bị và Dịch vụ Dầu khí
+619,PXK,XL dầu khí Kinh Bắc,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+620,QHD,Que hàn Việt Đức,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Công nghiệp phức hợp
+621,QST,Sách Quảng Ninh,HNX,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa"
+622,QTC,GTVT Quảng Nam,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+623,RCL,Địa Ốc Chợ Lớn,HNX,Tài chính,Bất động sản,Bất động sản,Bất động sản
+624,S55,Sông Đà 505,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+625,S99,Sông Đà 9.09 (SCI),HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+626,SAF,Thực Phẩm SAFOCO,HNX,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+627,SCG,Xây dựng SCG,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+628,SCI,SCI E&C,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+629,SD5,Sông Đà 5,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+630,SD9,Sông Đà 9,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+631,SDA,XKLĐ Sông Đà,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Đào tạo & Việc làm
+632,SDC,Tư vấn Sông Đà,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Tư vấn & Hỗ trợ KD
+633,SDG,Sadico Cần Thơ,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói
+634,SDN,Sơn Đồng Nai,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+635,SDU,Đô thị Sông Đà,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+636,SEB,Điện miền Trung,HNX,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+637,SED,Phát triển GD Phương Nam,HNX,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa"
+638,SFN,Dệt lưới Sài Gòn,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Nhà cung cấp thiết bị
+639,SGC,Bánh phồng tôm Sa Giang,HNX,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+640,SGD,Sách GD TP.HCM,HNX,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa"
+641,SGH,Khách sạn Sài Gòn,HNX,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Khách sạn
+642,SHE,PT Năng Lượng Sơn Hà,HNX,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng gia dụng,Đồ gia dụng lâu bền
+643,SHN,Đầu tư Tổng hợp Hà Nội,HNX,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai thác Than
+644,SHS,Chứng khoán SG - HN,HNX,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+645,SJ1,Nông nghiệp Hùng Hậu,HNX,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+646,SJE,Sông Đà 11,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+647,SLS,Mía đường Sơn La,HNX,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+648,SMN,Sách và thiết bị GD miền Nam,HNX,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa"
+649,SMT,SAMETEL,HNX,Công nghệ Thông tin,Công nghệ Thông tin,Thiết bị và Phần cứng,Thiết bị viễn thông
+650,SPC,BV Thực vật Sài Gòn,HNX,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+651,SPI,Spiral Galaxy,HNX,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng
+652,SRA,SARA Việt Nam,HNX,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Phần mềm
+653,SSM,Kết cấu Thép VNECO,HNX,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+654,STC,Sách và TB Trường học TP HCM,HNX,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa"
+655,STP,CN Thương Mại Sông Đà,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói
+656,SVN,Tập đoàn Vexilla Việt Nam,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+657,SZB,Sonadezi Long Bình,HNX,Tài chính,Bất động sản,Bất động sản,Bất động sản
+658,TA9,Xây lắp Thành An 96,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+659,TBX,Xi măng Thái Bình,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+660,TDT,Đầu tư và Phát triển TDT,HNX,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+661,TET,May mặc Miền Bắc,HNX,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+662,TFC,CTCP Trang,HNX,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+663,THB,Bia Hà Nội - Thanh Hóa,HNX,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia
+664,THD,Công ty Thaiholdings,HNX,Tài chính,Bất động sản,Bất động sản,"Tư Vấn, Định giá, Môi giới Bất động sản"
+665,THS,Thanh Hoa Sông Đà,HNX,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Bán lẻ phức hợp
+666,THT,Than Hà Tu,HNX,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai thác Than
+667,TIG,Tập đoàn Đầu tư Thăng Long,HNX,Tài chính,Bất động sản,Bất động sản,Bất động sản
+668,TJC,Dịch vụ Vận tải và Thương mại,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải
+669,TKU,Công nghiệp Tung Kuang,HNX,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Nhôm
+670,TMB,Than Miền Bắc - Vinacomin,HNX,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai thác Than
+671,TMC,XNK Thủ Đức,HNX,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt
+672,TMX,Thương mại Xi măng,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+673,TNG,Đầu tư và Thương mại TNG,HNX,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+674,TOT,Vận tải Transimex,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải
+675,TPH,In Sách giáo khoa TP.Hà Nội,HNX,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa"
+676,TPP,Nhựa Tân Phú VN,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói
+677,TSB,Ắc quy Tia Sáng,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Hàng điện & điện tử
+678,TTC,Gạch men Thanh Thanh,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+679,TTH,TM và DV Tiến Thành,HNX,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+680,TTL,TCT Thăng Long,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+681,TTT,Du lịch - Thương Mại Tây Ninh,HNX,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch
+682,TV3,Tư vấn XD điện 3,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+683,TV4,Tư vấn XD Điện 4,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Tư vấn & Hỗ trợ KD
+684,TVC,Tập đoàn Trí Việt,HNX,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Tài chính đặc biệt
+685,TVD,Than Vàng Danh,HNX,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai thác Than
+686,TXM,Thạch cao Xi măng,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+687,UNI,Đầu tư và Phát triển Sao Mai Việt,HNX,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Dịch vụ Máy tính
+688,V12,VINACONEX 12,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+689,V21,Vinaconex 21,HNX,Tài chính,Bất động sản,Bất động sản,Bất động sản
+690,VBC,Nhựa - Bao bì Vinh,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói
+691,VC1,Xây dựng số 1,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+692,VC2,Đầu tư và Xây dựng VINA2,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+693,VC3,Tập đoàn Nam Mê Kông,HNX,Tài chính,Bất động sản,Bất động sản,"Tư Vấn, Định giá, Môi giới Bất động sản"
+694,VC6,Visicons,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+695,VC7,BGI Group,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+696,VC9,Xây dựng số 9,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+697,VCC,Vinaconex 25,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+698,VCM,BV Life,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Đào tạo & Việc làm
+699,VCS,VICOSTONE,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+700,VDL,Thực phẩm Lâm Đồng,HNX,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Vang & Rượu mạnh
+701,VE1,VNECO 1,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+702,VE3,Xây dựng điện VNECO 3,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+703,VE4,Xây dựng điện VNECO4,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+704,VE8,Xây dựng Điện Vneco 8,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+705,VFS,Chứng khoán Nhất Việt,HNX,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+706,VGP,Cảng Rau Quả,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+707,VGS,Ống thép Việt Đức,HNX,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+708,VHE,Dược liệu và Thực phẩm VN,HNX,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+709,VHL,Viglacera Hạ Long,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+710,VIF,Lâm nghiệp Việt Nam,HNX,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ
+711,VIG,Chứng khoán Đầu tư Tài chính Việt Nam,HNX,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+712,VIT,Viglacera Tiên Sơn,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+713,VLA,PT Công nghệ Văn Lang,HNX,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Phần mềm
+714,VMC,VIMECO,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+715,VMS,Phát triển Hàng Hải,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+716,VNC,VINACONTROL,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Tư vấn & Hỗ trợ KD
+717,VNF,VINAFREIGHT,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải
+718,VNR,Tái bảo hiểm Quốc gia,HNX,Tài chính,Bảo hiểm,Bảo hiểm phi nhân thọ,Tái bảo hiểm
+719,VNT,Vận tải ngoại thương,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải
+720,VSA,Đại lý Hàng hải VN,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải
+721,VSM,Container Miền Trung,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+722,VTC,Viễn thông VTC,HNX,Công nghệ Thông tin,Công nghệ Thông tin,Thiết bị và Phần cứng,Thiết bị viễn thông
+723,VTH,Dây cáp điện Việt Thái,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Hàng điện & điện tử
+724,VTJ,TM và Đầu tư VINATABA,HNX,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Thuốc lá,Thuốc lá
+725,VTV,Năng lượng và Môi trường VICEM,HNX,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+726,VTZ,Nhựa Việt Thành,HNX,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+727,WCS,Bến xe Miền Tây,HNX,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+728,WSS,Chứng khoán Phố Wall,HNX,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+729,X20,May mặc X20,HNX,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+730,A32,Công ty 32,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Giầy dép
+731,AAH,Than Hợp Nhất,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai thác Than
+732,AAS,Chứng khoán SmartInvest,UPCoM,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+733,ABA,Giải pháp Thương mại A BA,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải
+734,ABB,Ngân hàng An Bình,UPCoM,Ngân hàng,Ngân hàng,Ngân hàng,Ngân hàng
+735,ABC,Truyền thông VMG,UPCoM,Viễn thông,Viễn thông,Viễn thông di động,Viễn thông di động
+736,ABI,BH NH Nông Nghiệp,UPCoM,Tài chính,Bảo hiểm,Bảo hiểm phi nhân thọ,Bảo hiểm phi nhân thọ
+737,ABW,Chứng khoán An Bình,UPCoM,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+738,ACE,Bê tông An Giang,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+739,ACM,Tập đoàn Khoáng sản Á Cường,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng
+740,ACS,Xây lắp Thương mại 2,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+741,ACV,Cảng Hàng không VN,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+742,AFX,XNK Nông sản Thực phẩm An Giang,UPCoM,Dịch vụ Tiêu dùng,Bán lẻ,Phân phối thực phẩm & dược phẩm,Phân phối thực phẩm
+743,AG1,28.1 JSC,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+744,AGF,Thủy sản An Giang,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+745,AGP,Dược phẩm AGIMEXPHARM,UPCoM,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+746,AGX,Nông sản Xuất khẩu Sài Gòn,UPCoM,Dịch vụ Tiêu dùng,Bán lẻ,Phân phối thực phẩm & dược phẩm,Phân phối thực phẩm
+747,AIC,Bảo hiểm Hàng không,UPCoM,Tài chính,Bảo hiểm,Bảo hiểm phi nhân thọ,Bảo hiểm phi nhân thọ
+748,AIG,Nguyên liệu Á Châu AIG,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+749,ALV,Xây dựng ALVICO,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+750,AMD,FLC Stone,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+751,AMP,Armephaco,UPCoM,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+752,AMS,Xây dựng AMECC,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Nhà cung cấp thiết bị
+753,ANT,Rau quả thực phẩm An Giang,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+754,APC,Chiếu xạ An Phú,UPCoM,Dược phẩm và Y tế,Y tế,Dược phẩm,Công nghệ sinh học
+755,APF,Nông sản Quảng Ngãi,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+756,APL,Cơ khí và Thiết bị áp lực - VVMI,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp
+757,APP,Phụ gia và SP Dầu mỏ,UPCoM,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+758,APT,Thủy hải sản Sài Gòn,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+759,ART,Chứng khoán BOS,UPCoM,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+760,ASA,Hàng tiêu dùng ASA,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng cá nhân
+761,ATA,NTACO,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+762,ATB,Công ty An Thịnh,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+763,ATG,An Trường An,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng
+764,AVC,Thủy điện A Vương,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+765,AVF,Thủy sản Việt An,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+766,AVG,Phân Bón Quốc Tế Âu Việt,UPCoM,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+767,BAL,Bao bì Balpac,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói
+768,BBH,Bao bì Hoàng Thạch,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói
+769,BBM,Bia Hà Nội - Nam Định,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia
+770,BBT,Bông Bạch Tuyết,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng cá nhân
+771,BCA,Công ty B.C.H,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+772,BCB,Công ty 397,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai thác Than
+773,BCP,Dược Enlie,UPCoM,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+774,BCR,BCG Land,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+775,BCV,Du lịch và Thương mại Bằng Giang Cao Bằng - Vimico,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Khách sạn
+776,BDG,May mặc Bình Dương,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+777,BDT,VLXD Đồng Tháp,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+778,BDW,Cấp thoát nước Bình Định,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+779,BEL,Điện tử Biên Hoà,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng hóa giải trí,Điện tử tiêu dùng
+780,BGE,BCG Energy,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+781,BGT,Công trình giao thông Bà Rịa - Vũng Tàu,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+782,BGW,Nước sạch Bắc Giang,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+783,BHA,Thủy điện Bắc Hà,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+784,BHC,Bê tông Biên Hòa,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+785,BHG,Chè Biển Hồ,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Đồ uống & giải khát
+786,BHH,Habeco Trading 89,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia
+787,BHI,Bảo hiểm Sài Gòn - Hà Nội,UPCoM,Tài chính,Bảo hiểm,Bảo hiểm phi nhân thọ,Bảo hiểm phi nhân thọ
+788,BHK,Bia Hà Nội - Kim Bài,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia
+789,BHP,Bia Hà Nội - Hải Phòng,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia
+790,BIG,BIG Invest Group,UPCoM,Tài chính,Bất động sản,Bất động sản,"Tư Vấn, Định giá, Môi giới Bất động sản"
+791,BII,Đầu tư và Phát triển Công nghiệp Bảo Thư,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+792,BIO,Vắc xin và Sinh phẩm Nha Trang,UPCoM,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+793,BLF,Thủy sản Bạc Liêu,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+794,BLI,Bảo hiểm Nhà Rồng,UPCoM,Tài chính,Bảo hiểm,Bảo hiểm phi nhân thọ,Bảo hiểm phi nhân thọ
+795,BLN,Xe buýt Liên Ninh,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch
+796,BLT,Lương Thực Bình Định,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+797,BMD,Môi trường và DV Đô thị Bình Thuận,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Chất thải & Môi trường
+798,BMF,VLXD và Chất đốt Đồng Nai,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt
+799,BMG,May Bình Minh,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+800,BMJ,Khoáng sản Miền Đông AHP,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng
+801,BMK,Black Cat,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+802,BMN,Công ty 715,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+803,BMS,Chứng khoán Bảo Minh,UPCoM,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+804,BMV,Bột mỳ Vinafood 1,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+805,BNW,Nước sạch Bắc Ninh,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+806,BOT,BOT Cầu Thái Hà,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+807,BQB,Bia Hà Nội - Quảng Bình,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia
+808,BRR,Cao su Bà Rịa,UPCoM,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+809,BRS,Dịch vụ Đô thị Bà Rịa,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Chất thải & Môi trường
+810,BSA,Thủy điện Buôn Đôn,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+811,BSD,"Bia, rượu Sài Gòn - Đồng Xuân",UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia
+812,BSG,Xe khách Sài Gòn,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch
+813,BSH,Bia Sài Gòn - Hà Nội,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia
+814,BSL,Bia Sài Gòn - Sông Lam,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia
+815,BSP,Bia Sài Gòn - Phú Thọ,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia
+816,BSQ,Bia Sài Gòn - Quảng Ngãi,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia
+817,BT1,Bảo vệ thực vật 1 TW,UPCoM,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+818,BT6,Bê tông 6,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+819,BTB,Bia Hà Nội - Thái Bình,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia
+820,BTD,Bê tông ly tâm Thủ Đức,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+821,BTG,Bao bì Tiền Giang,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói
+822,BTH,Biến thế và Vật liệu Điện Hà Nội,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Thiết bị điện
+823,BTN,Gạch Tuy Nen Bình Định,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+824,BTU,Công trình Đô thị Bến Tre,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Chất thải & Môi trường
+825,BTV,DV Du lịch Bến Thành,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch
+826,BVB,Ngân hàng Bản Việt - BVBank,UPCoM,Ngân hàng,Ngân hàng,Ngân hàng,Ngân hàng
+827,BVG,Group Bắc Việt,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+828,BVL,BV Land,UPCoM,Tài chính,Bất động sản,Bất động sản,"Tư Vấn, Định giá, Môi giới Bất động sản"
+829,BVN,Bông Việt Nam,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng cá nhân
+830,BWA,Cấp thoát nước và Xây dựng Bảo Lộc,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+831,BWS,Cấp Nước Bà Rịa Vũng Tàu,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+832,C12,Cầu 12,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+833,C21,Thế kỷ 21,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+834,C22,Công ty 22,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+835,C4G,Tập Đoàn Cienco4,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+836,C92,Xây dựng và Đầu tư 492,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+837,CAD,Thủy sản Cadovimex,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+838,CAF,Xuất nhập khẩu Nông Sản Thực Phẩm Cà Mau,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+839,CAT,Thủy sản Cà Mau,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+840,CBI,Gang thép Cao Bằng,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+841,CBS,Mía đường Cao Bằng,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+842,CBV,CTCBIO Việt Nam,UPCoM,Dược phẩm và Y tế,Y tế,Thiết bị và Dịch vụ Y tế,Chăm sóc y tế
+843,CC1,TCT Xây dựng số 1,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+844,CC4,ĐT và XD số 4,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+845,CCA,XNK Thuỷ sản Cần Thơ,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+846,CCC,Xây Dựng CDC,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+847,CCD,XD và Bảo trì cầu đường,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+848,CCM,Xi măng Cần Thơ,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+849,CCP,Cảng Cửa Cấm,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+850,CCS,Chíp Sáng,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Thiết bị điện
+851,CCT,Cảng Cần Thơ,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+852,CCV,XD CN và đô thị Việt Nam,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+853,CDG,VLXD Cầu Đuống,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+854,CDH,CTCC và DV Du lịch Hải Phòng,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Chất thải & Môi trường
+855,CDO,Tư vấn Thiết kế và PT Đô thị,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+856,CDP,Dược phẩm TW Codupha,UPCoM,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+857,CDR,Xây dựng Cao su Đồng Nai,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+858,CE1,Thiết bị Công nghiệp CIE1,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp
+859,CEG,XD và Thiết bị Công nghiệp,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+860,CEN,CENCON Việt Nam,UPCoM,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Bán lẻ phức hợp
+861,CFM,Đầu tư CFM,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Đào tạo & Việc làm
+862,CFV,Cà phê Thắng Lợi,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Đồ uống & giải khát
+863,CGV,Vinaceglass JSC,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+864,CH5,Xây dựng số 5 Hà Nội,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+865,CHC,Nội thất Cẩm Hà,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+866,CHS,Chiếu sáng TPHCM,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Tiện ích khác
+867,CI5,Đầu tư Xây dựng số 5,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+868,CID,Xây dựng và Phát triển Cơ sở Hạ tầng,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+869,CIP,XL và SX công nghiệp,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+870,CK8,Cơ khí 120,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+871,CKA,Cơ khí An Giang,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp
+872,CKD,Đông Anh Licogi,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp
+873,CLG,Cotec Land,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+874,CLX,XNK và ĐT Chợ Lớn (CHOLIMEX),UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+875,CMD,VLXD và Nội thất TP.HCM,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+876,CMF,Thực phẩm Cholimex,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+877,CMI,CMISTONE Việt Nam,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+878,CMK,Cơ khí Mạo Khê - Vinacomin,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp
+879,CMM,Camimex,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+880,CMN,Colusa -  Miliket,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+881,CMP,Cảng Chân Mây,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+882,CMT,CN mạng và Truyền thông,UPCoM,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Phần mềm
+883,CMW,Cấp nước Cà Mau,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+884,CNA,Tổng công ty Chè Nghệ An - CTCP,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+885,CNC,Công nghệ cao Traphaco,UPCoM,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+886,CNN,Xây dựng Coninco,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+887,CNT,Tập đoàn CNT,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+888,CPA,Cà phê Phước An,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Đồ uống & giải khát
+889,CPH,PV mai táng Hải Phòng,UPCoM,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Dịch vụ tiêu dùng chuyên ngành
+890,CPI,Đầu tư Cảng Cái Lân,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+891,CQN,Cảng Quảng Ninh,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+892,CQT,Xi măng Quán Triều VVMI,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+893,CSI,Chứng khoán Kiến thiết VN,UPCoM,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+894,CT3,Xây dựng công trình 3,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+895,CT6,Công trình 6,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+896,CTA,Xây dựng Vinavico,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+897,CTC,Tập đoàn Hoàng Kim Tây Nguyên,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch
+898,CTN,VINAVICO,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+899,CTW,Cấp thoát nước Cần Thơ,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+900,CTX,CONSTREXIM,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+901,CYC,Gạch men Chang YIH,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+902,DAC,CTCP 382 Đông Anh,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+903,DAG,TĐ Nhựa Đông Á,UPCoM,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+904,DAN,Dược Danapha,UPCoM,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+905,DAS,Thiết bị Dầu khí Đà Nẵng,UPCoM,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô
+906,DBM,BAMEPHARM,UPCoM,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+907,DC1,Phát triển Xây dựng số 1 (DIC1),UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+908,DCF,XD và Thiết kế số 1,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+909,DCG,May Đáp Cầu,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+910,DCH,Địa chính Hà Nội,UPCoM,Tài chính,Bất động sản,Bất động sản,"Tư Vấn, Định giá, Môi giới Bất động sản"
+911,DCR,Gạch men COSEVCO,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+912,DCS,Đại Châu,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng gia dụng,Thiết bị gia dụng
+913,DCT,Tấm lợp VLXD Đồng Nai,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+914,DDB,TM & XD Đông Dương,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+915,DDH,Đảm bảo GTĐT Hải Phòng,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+916,DDM,Hàng hải Đông Đô,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy
+917,DDN,Dược - TB Y tế Đà Nẵng,UPCoM,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+918,DDV,DAP - Vinachem,UPCoM,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+919,DFC,Xích líp Đông Anh,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+920,DFF,Tập đoàn Đua Fat,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+921,DGT,Công trình GT Đồng Nai,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+922,DHB,Đạm Hà Bắc,UPCoM,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+923,DHD,Dược Vật Tư Y Tế Hải Dương,UPCoM,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+924,DHN,Dược Hà Nội,UPCoM,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+925,DHQ,Duyên hải Quảng Ninh,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Khách sạn
+926,DIC,ĐT và TM DIC,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+927,DID,DIC - Đồng Tiến,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+928,DKC,Chợ Lạng Sơn,UPCoM,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Bán lẻ phức hợp
+929,DKG,Vôi Công Nghiệp DLH,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+930,DKW,Cấp nước sinh hoạt Châu Thành,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+931,DLD,Du lịch Đắk Lắk,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Khách sạn
+932,DLR,Địa ốc Đà Lạt,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+933,DLT,Du lịch và TM - Vinacomin,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch
+934,DM7,Dệt may 7,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+935,DMH,Dược Minh Hải,UPCoM,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+936,DMN,Domenal,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+937,DMS,Dầu khí DMC-miền Nam,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt
+938,DNA,Điện nước An Giang,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+939,DND,XD và Vật liệu Đồng Nai,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+940,DNE,Môi trường Đô thị Đà Nẵng,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Chất thải & Môi trường
+941,DNH,Thủy điện Đa Nhim-Hàm Thuận-Đa Mi,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+942,DNL,Logistics Cảng Đà Nẵng,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+943,DNM,Y tế Danameco,UPCoM,Dược phẩm và Y tế,Y tế,Thiết bị và Dịch vụ Y tế,Dụng cụ y tế
+944,DNN,Cấp nước Đà Nẵng,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+945,DNT,Du lịch Đồng Nai,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Dịch vụ giải trí
+946,DNW,Cấp nước Đồng Nai,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+947,DO3,Kinh doanh Địa ốc 3,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+948,DOC,Vật tư nông nghiệp Đồng Nai,UPCoM,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+949,DOP,Vận tải XD Đồng Tháp,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải
+950,DP1,Dược phẩm Trung ương CPC1,UPCoM,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+951,DP2,Dược phẩm TW 2,UPCoM,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+952,DPC,Nhựa Đà Nẵng,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói
+953,DPH,Dược phẩm Hải Phòng,UPCoM,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+954,DPP,Dược Đồng Nai,UPCoM,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+955,DPS,Đầu tư Phát triển Sóc Sơn,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+956,DRG,Cao su Đắk Lắk,UPCoM,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+957,DRI,Đầu tư Cao su Đắk Lắk,UPCoM,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+958,DSD,DHC Suối Đôi,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Dịch vụ giải trí
+959,DSG,Kính Đáp Cầu,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+960,DSP,Dịch vụ Du lịch Phú Thọ,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch
+961,DTB,Công trình Đô thị Bảo Lộc,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Chất thải & Môi trường
+962,DTE,Đại Trường Thành Holdings,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+963,DTH,Vật tư Y tế Thanh Hóa,UPCoM,Dược phẩm và Y tế,Y tế,Thiết bị và Dịch vụ Y tế,Thiết bị y tế
+964,DTI,Đầu tư Đức Trung,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Khách sạn
+965,DTP,Dược phẩm CPC1 Hà Nội,UPCoM,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+966,DUS,Dịch vụ Đô thị Đà Lạt,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Chất thải & Môi trường
+967,DVC,TM dịch vụ Cảng Hải Phòng,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt
+968,DVG,Tập đoàn Sơn Đại Việt,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+969,DVN,Tổng Công ty Dược Việt Nam,UPCoM,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+970,DVW,DV và XD cấp nước Đồng Nai,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+971,DWC,Cấp nước Đắk Lắk,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+972,DWS,Cấp nước Đồng Tháp,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+973,DXL,Du lịch và Xuất nhập khẩu Lạng Sơn,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Khách sạn
+974,DZM,Cơ điện Dzĩ An,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp
+975,E12,XD Điện VNECO 12,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+976,E29,Đầu tư XD và Kỹ thuật 29,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+977,ECO,Ecoplastic VN,UPCoM,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+978,EFI,Tài chính giáo dục,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+979,EGL,"Urenco Gia Lam.,Jsc",UPCoM,,,,
+980,EIC,EVN Quốc Tế,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+981,EIN,Đầu tư - TM - DV Điện lực,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Khách sạn
+982,EME,Điện Cơ,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Thiết bị điện
+983,EMG,Thiết bị phụ tùng cơ điện,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Thiết bị điện
+984,EMS,Chuyển phát nhanh Bưu điện,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Chuyển phát nhanh
+985,EPC,Cà Phê Ea Pốk,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Đồ uống & giải khát
+986,EPH,Xuất bản giáo dục Hà Nội,UPCoM,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa"
+987,ESL,Tiếp vận Đông Sài Gòn,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+988,FBA,Tập đoàn Quốc tế FBA,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng gia dụng,Thiết bị gia dụng
+989,FBC,Cơ khí Phổ Yên,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp
+990,FCC,Liên hợp Thực phẩm,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+991,FCS,Lương thực TP Hồ Chí Minh,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+992,FGL,Cà Phê Gia Lai,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Đồ uống & giải khát
+993,FHH,FLCHomes,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+994,FHN,XNK lương thực Hà Nội,UPCoM,Dịch vụ Tiêu dùng,Bán lẻ,Phân phối thực phẩm & dược phẩm,Phân phối thực phẩm
+995,FHS,Phát hành sách TP HCM - FAHASA,UPCoM,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa"
+996,FIC,VLXD số 1,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+997,FLC,Tập đoàn FLC,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+998,FOC,FPT Online,UPCoM,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,Dịch vụ truyền thông
+999,FOX,FPT Telecom,UPCoM,Viễn thông,Viễn thông,Viễn thông cố định,Viễn thông cố định
+1000,FRC,Lâm đặc sản xuất khẩu Quảng Nam,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ
+1001,FRM,Lâm nghiệp Sài Gòn,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ
+1002,FSO,Đóng tàu thủy sản VN,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Xe tải & Đóng tàu
+1003,FT1,Phụ tùng máy số 1,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp
+1004,FTI,Công nghiệp - Thương mại Hữu Nghị,UPCoM,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Phụ tùng ô tô
+1005,FTM,Phát triển Đức Quân,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+1006,FVN,Thiết kế và CN Việt Nam,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1007,G20,Đầu tư Dệt may Vĩnh Phúc,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+1008,G30,Gạch ngói 30-4,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1009,G36,Tổng Công ty 36,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1010,GAB,ĐT Khai khoáng và QL Tài sản FLC,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1011,GCB,PETEC Bình Định,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt
+1012,GCF,Thực phẩm G.C,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+1013,GDA,Tôn Đông Á,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+1014,GER,Thể thao Ngôi sao Geru,UPCoM,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+1015,GGG,Ôtô Giải Phóng,UPCoM,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô
+1016,GH3,Công trình giao thông Hà Nội,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1017,GHC,Thủy điện Gia Lai,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+1018,GLC,Vàng Lào Cai,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai thác vàng
+1019,GLW,Cấp thoát nước Gia Lai,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1020,GMC,Garmex Sài Gòn,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+1021,GND,Gạch ngói Đồng Nai,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1022,GPC,Tập đoàn Green+,UPCoM,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+1023,GSM,Thủy điện Hương Sơn,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+1024,GTD,Giầy Thượng Đình,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Giầy dép
+1025,GTS,Công trình Giao thông Sài Gòn,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1026,GTT,Thuận Thảo Group,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Dịch vụ giải trí
+1027,GVT,Giấy Việt Trì,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Sản xuất giấy
+1028,H11,Xây dựng HUD101,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1029,HAC,Chứng khoán Hải Phòng,UPCoM,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+1030,HAF,Thực phẩm Hà Nội,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+1031,HAI,Nông Dược HAI,UPCoM,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+1032,HAM,Vật tư Hậu Giang,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1033,HAN,Xây dựng Hà Nội,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1034,HAV,Rượu Hapro,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Vang & Rượu mạnh
+1035,HBC,Tập đoàn Xây dựng Hòa Bình,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1036,HBD,Bao bì PP Bình Dương,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói
+1037,HBH,HABECO Hải Phòng,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia
+1038,HC1,Xây dựng số 1 Hà Nội,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1039,HC3,Xây dựng số 3 Hải Phòng,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1040,HCB,Dệt may 29/3,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+1041,HCI,Đầu tư - XD Hà Nội,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1042,HCO,Bánh kẹo Hải Châu,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+1043,HD2,Đầu tư phát triển nhà HUD 2,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1044,HD6,Phát triển nhà số 6 Hà Nội,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1045,HD8,PT Nhà và Đô thị HUD8,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1046,HDM,Dệt May Huế,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+1047,HDO,Hưng Đạo Container,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói
+1048,HDP,Dược Hà Tĩnh,UPCoM,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+1049,HDS,Giống cây trồng Hải Dương,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+1050,HDW,Nước sạch Hải Dương,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1051,HEC,Tư vấn XD Thủy Lợi II (HEC II),UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Tư vấn & Hỗ trợ KD
+1052,HEJ,Tư vấn Xây dựng Thủy Lợi VN,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1053,HEP,Môi trường và Công trình đô thị Huế,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Chất thải & Môi trường
+1054,HES,Dịch vụ Giải trí Hà Nội,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Dịch vụ giải trí
+1055,HFB,Công trình Cầu phà TP HCM,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1056,HFC,Xăng dầu HFC,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt
+1057,HFX,XNK Thanh Hà,UPCoM,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Bán lẻ phức hợp
+1058,HGT,Du lịch Hương Giang,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch
+1059,HHG,Vận tải Hoàng Hà,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch
+1060,HHI,Hoàng Hạc,UPCoM,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa"
+1061,HHN,Vận tải và DV Hàng hóa Hà Nội,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+1062,HIG,Tập đoàn HIPT,UPCoM,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Phần mềm
+1063,HIO,Helio Energy,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+1064,HJC,Công ty Cổ phần Hoà Việt,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Thuốc lá,Thuốc lá
+1065,HKB,Thực phẩm Hà Nội - Kinh Bắc,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+1066,HLA,Hữu Liên Á Châu,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+1067,HLB,Bia và NGK Hạ Long,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia
+1068,HLO,Công Nghệ Ha Lô,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Hàng điện & điện tử
+1069,HLS,Sứ Hoàng Liên Sơn,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Hàng điện & điện tử
+1070,HLT,Dệt may Hoàng Thị Loan,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+1071,HLY,Gốm Xây Dựng Yên Hưng,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1072,HMD,Minh Duccsco,UPCoM,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+1073,HMG,Kim Khí Hà Nội,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+1074,HMS,XD Bảo tàng Hồ Chí Minh,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1075,HNB,Bến xe Hà Nội,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+1076,HNC,Xi măng Hữu Nghị,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1077,HND,Nhiệt điện Hải Phòng,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+1078,HNF,Bánh kẹo Hữu Nghị,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+1079,HNG,Nông nghiệp Quốc tế HAGL,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+1080,HNI,May Hữu Nghị,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+1081,HNM,HANOIMILK,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+1082,HNP,Hanel Xốp Nhựa,UPCoM,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+1083,HNR,Cồn Rượu và Nước Giải Khát Hà Nội,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Vang & Rượu mạnh
+1084,HOT,Du lịch - DV Hội An,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch
+1085,HPB,Bao bì PP,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói
+1086,HPD,Thủy điện Đăk Đoa,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+1087,HPH,Hóa Chất Hưng Phát Hà Bắc,UPCoM,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+1088,HPI,Khu công nghiệp Hiệp Phước,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1089,HPM,Khoáng sản Hoàng Phúc,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng
+1090,HPP,Sơn Hải Phòng,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1091,HPT,DV Công nghệ Tin học HPT,UPCoM,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Phần mềm
+1092,HPW,Cấp nước Hải Phòng,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1093,HRB,Harec Đầu tư và Thương Mại,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1094,HSA,HESTIA,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Tư vấn & Hỗ trợ KD
+1095,HSI,Phân bón Hóa sinh,UPCoM,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+1096,HSM,HANOSIMEX,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+1097,HSP,Sơn Tổng hợp Hà Nội,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1098,HSV,Gang Thép Hà Nội,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+1099,HT9,Phát triển hạ tầng 319,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1100,HTE,Kinh doanh điện lực TP HCM,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+1101,HTM,Thương mại Hà Nội - Hapro,UPCoM,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Bán lẻ phức hợp
+1102,HTP,In SGK Hòa Phát,UPCoM,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa"
+1103,HTS,Thép Hương Thịnh,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+1104,HTT,Thương mại Hà Tây,UPCoM,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Bán lẻ phức hợp
+1105,HU3,Xây dựng HUD3,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1106,HU4,Đầu tư và Xây dựng HUD4,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1107,HU6,PT Nhà và Đô thị HUD6,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1108,HUG,May Hưng Yên,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+1109,HVA,Đầu tư HVA,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+1110,HVG,Thủy sản Hùng Vương,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+1111,HWI,Đầu tư XD hạ tầng nước sạch Hà Nội,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1112,HWS,Cấp nước Huế,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1113,IBC,Đầu tư APAX Holdings,UPCoM,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Tài chính đặc biệt
+1114,IBD,In Tổng hợp Bình Dương,UPCoM,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa"
+1115,ICC,Xây dựng công nghiệp,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1116,ICF,ĐT TM Thủy sản,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+1117,ICI,Đầu tư và XD Công nghiệp,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1118,ICL,Xuất Nhập Khẩu Vĩnh Long,UPCoM,Dịch vụ Tiêu dùng,Bán lẻ,Phân phối thực phẩm & dược phẩm,Phân phối thực phẩm
+1119,ICN,XD Dầu Khí IDICO,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1120,IDP,Sữa Quốc tế LOF,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+1121,IFS,Thực phẩm Quốc tế,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Đồ uống & giải khát
+1122,IHK,In Hàng Không,UPCoM,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa"
+1123,ILA,Công ty ILA,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+1124,ILC,Hợp tác lao động với nước ngoài,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Đào tạo & Việc làm
+1125,ILS,TM và Dịch vụ Quốc tế,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói
+1126,IME,Xây lắp Công nghiệp,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp
+1127,IN4,In số 4,UPCoM,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa"
+1128,ING,Đầu Tư Và Pt Xây Dựng,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1129,IRC,Cao su Công nghiệp,UPCoM,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+1130,ISG,Vận tải biển và Hợp tác LĐ Quốc Tế,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy
+1131,ISH,Thủy điện Srok Phu Miêng,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+1132,IST,ICD Tân Cảng Sóng Thần,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+1133,ITA,Đầu tư CN Tân Tạo,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1134,ITS,Thương mại và DV - Vinacomin,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp
+1135,JOS,Thủy sản Minh Hải,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+1136,KAC,Địa ốc Khang An,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1137,KCB,Khoáng Sản Luyện Kim Cao Bằng,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng
+1138,KCE,Bê tông Ly tâm ĐL Khánh Hòa,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1139,KGM,XNK Kiên Giang,UPCoM,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Bán lẻ phức hợp
+1140,KHD,Khoáng sản Hải Dương,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng
+1141,KHL,VLXD Hưng Long,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1142,KHW,Cấp thoát nước Khánh Hòa,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1143,KIP,K.I.P Việt Nam,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Thiết bị điện
+1144,KLB,KienlongBank,UPCoM,Ngân hàng,Ngân hàng,Ngân hàng,Ngân hàng
+1145,KLF,KLF Global,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Dịch vụ giải trí
+1146,KNA,Khoáng sản Nghệ An,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng
+1147,KSH,Damac GLS,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng
+1148,KSS,Na Rì Hamico,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng
+1149,KTC,Thương mại Kiên Giang,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+1150,KTL,Kim khí Thăng Long,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+1151,KTT,Tập đoàn Đầu tư KTT,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1152,KVC,XNK Inox Kim Vĩ,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+1153,KWA,Cấp thoát nước Kiến Tường,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1154,L12,LICOGI 12,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1155,L35,Cơ khí Lilama,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp
+1156,L43,LILAMA 45.3,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1157,L44,LILAMA 45.4,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp
+1158,L45,Lilama 45.1,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1159,L61,LILAMA 69-1,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp
+1160,L62,LILAMA 69.2,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp
+1161,L63,Lilama 69-3,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp
+1162,LAI,XD Long An IDICO,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1163,LAW,Cấp thoát nước Long An,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1164,LCC,Xi măng Hồng Phong,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1165,LCM,Khoáng sản Lào Cai,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng
+1166,LCS,Licogi 16.6,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1167,LDW,Cấp thoát nước Lâm Đồng,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1168,LG9,Cơ giới và XL số 9 (Licogi 9),UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1169,LGM,Giày da và may mặc XK (Legamex),UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+1170,LIC,LICOGI,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1171,LKW,Cấp nước Long Khánh,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1172,LLM,LILAMA,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp
+1173,LM3,Lilama 3,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1174,LM7,LILAMA 7,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp
+1175,LMC,Khoáng sản LATCA,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng
+1176,LMH,Quoc te Holding,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1177,LMI,Lắp máy IDICO,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp
+1178,LNC,Lệ Ninh - Quảng Bình,UPCoM,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+1179,LO5,LILAMA 5,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp
+1180,LPT,TM và SX Lập Phương Thành,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Đào tạo & Việc làm
+1181,LQN,Licogi Quảng Ngãi,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1182,LSG,BĐS Sài Gòn Vina,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1183,LTC,Điện nhẹ Viễn thông,UPCoM,Công nghệ Thông tin,Công nghệ Thông tin,Thiết bị và Phần cứng,Phần cứng
+1184,LTG,Tập đoàn Lộc Trời (BVTV An Giang),UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+1185,LTQ,Lâm nghiệp Nguyễn Văn Trỗi,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ
+1186,LUT,Đầu tư Xây dựng Lương Tài,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1187,M10,May10,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+1188,MA1,MACHINCO1,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1189,MBN,Môi trường và Công trình ĐT Bắc Ninh,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Chất thải & Môi trường
+1190,MBT,BĐS Cho thuê Minh Bảo Tín,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1191,MCG,Năng lượng và Bất động sản MCG,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1192,MCH,Hàng Tiêu Dùng MaSan,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+1193,MDA,Môi trường Đô thị Đông Anh,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Chất thải & Môi trường
+1194,MDF,Gỗ MDF VRG - Quảng Trị,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ
+1195,MEC,Lắp máy Sông Đà,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1196,MEF,MEINFA,UPCoM,Dược phẩm và Y tế,Y tế,Thiết bị và Dịch vụ Y tế,Dụng cụ y tế
+1197,MES,Cơ điện Công trình,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1198,MFS,Mobifone Service,UPCoM,Viễn thông,Viễn thông,Viễn thông di động,Viễn thông di động
+1199,MGC,Địa chất mỏ - TKV,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng
+1200,MGG,May Đức Giang,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+1201,MGR,Tập đoàn MGROUP,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1202,MH3,KCN Cao su Bình Long,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1203,MHL,Minh Hữu Liên,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+1204,MIC,Khoáng sản Quảng Nam,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng
+1205,MIE,Máy và Thiết bị Công nghiệp,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp
+1206,MIM,Khoáng sản và Cơ khí,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng
+1207,MKP,Dược phẩm Mekophar,UPCoM,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+1208,MLC,Môi trường Đô thị Tỉnh Lào Cai,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Chất thải & Môi trường
+1209,MLS,Chăn nuôi Mitraco,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+1210,MML,Masan MEATLife,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+1211,MNB,May Nhà Bè,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+1212,MND,Môi trường Nam Định,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Chất thải & Môi trường
+1213,MPC,Thủy sản Minh Phú,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+1214,MPT,Tập đoàn MPT,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+1215,MPY,Môi trường đô thị Phú Yên,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Chất thải & Môi trường
+1216,MQB,Môi trường và PT đô thị Quảng Bình,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Chất thải & Môi trường
+1217,MQN,Môi trường đô thị Quảng Ngãi,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Chất thải & Môi trường
+1218,MRF,Cao su y tế MERUFA,UPCoM,Dược phẩm và Y tế,Y tế,Thiết bị và Dịch vụ Y tế,Thiết bị y tế
+1219,MSR,Masan High-Tech Materials,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng
+1220,MT9,319 Miền Trung,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1221,MTA,Khoáng sản và TM Hà Tĩnh,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng
+1222,MTB,Công trình đô thị tỉnh Thái Bình,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Chất thải & Môi trường
+1223,MTC,Dịch Vụ Du Lịch Mỹ Trà,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Nhà hàng và quán bar
+1224,MTG,MTGAS,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt
+1225,MTH,Môi trường Đô thị Hà Đông,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Chất thải & Môi trường
+1226,MTL,Môi trường Đô thị Từ Liêm,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Chất thải & Môi trường
+1227,MTN,Thanh Nien Media Group Corp,UPCoM,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,Dịch vụ truyền thông
+1228,MTP,Dược Medipharco,UPCoM,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+1229,MTS,Vật tư - TKV,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Nhà cung cấp thiết bị
+1230,MTV,Công trình đô thị Vũng Tàu,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Chất thải & Môi trường
+1231,MTX,Công Trình Đô Thị Gò Công,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Chất thải & Môi trường
+1232,MVC,VL và XD Bình Dương,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1233,MVN,TCT Hàng hải Việt Nam,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy
+1234,MZG,Miza Corp,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Sản xuất giấy
+1235,NAC,Tư vấn xây dựng Tổng hợp,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1236,NAS,DV Hàng không SB Nội Bài,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+1237,NAU,Công trình Đô thị Nghệ An,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Chất thải & Môi trường
+1238,NAW,Cấp nước Nghệ An,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1239,NBE,Sách và Thiết bị GD Miền Bắc,UPCoM,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa"
+1240,NBT,Cấp thoát nước Bến Tre,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1241,NCG,Nova Consumer,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+1242,NCS,Suất ăn Hàng không Nội Bài,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+1243,ND2,Đầu tư và PT điện Miền Bắc 2,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+1244,NDC,Dược phẩm Nam Dược,UPCoM,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+1245,NDF,Nông sản XK Nam Định,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+1246,NDP,Dược phẩm 2/9,UPCoM,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+1247,NDT,Dệt may Nam Định,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+1248,NDW,Cấp nước Nam Định,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1249,NED,Phát triển Điện Tây Bắc,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1250,NEM,Thiết bị Điện Miền Bắc,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Thiết bị điện
+1251,NGC,Thủy sản Ngô Quyền,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+1252,NHP,Sản xuất XNK NHP,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói
+1253,NHV,Đầu tư NHV,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Kim Loại màu
+1254,NJC,May Nam Định,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+1255,NLS,Cấp thoát nước Lạng Sơn,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1256,NNT,Cấp nước Ninh Thuận,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1257,NOS,Vận tải Biển và Thương mại Phương Đông,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy
+1258,NQB,Cấp nước Quảng Bình,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1259,NQN,Nước sạch Quảng Ninh,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1260,NQT,Nước sạch Quảng Trị,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1261,NS2,Nước sạch số 2 Hà Nội,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1262,NSG,Nhựa Sài Gòn,UPCoM,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+1263,NSL,Cấp nước Sơn La,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1264,NSS,Nông súc sản Đồng Nai,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+1265,NTB,Công trình giao thông 584,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1266,NTC,KCN Nam Tân Uyên,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1267,NTF,Dược Nghệ An,UPCoM,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+1268,NTT,Dệt - May Nha Trang,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+1269,NTW,Cấp nước Nhơn Trạch,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1270,NUE,Môi trường Đô thị Nha Trang,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Chất thải & Môi trường
+1271,NVP,Nước sạch Vĩnh Phúc,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1272,NWT,Vận tải Newway,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch
+1273,NXT,SX và Cung ứng VLXD Kon Tum,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1274,ODE,Tập đoàn Truyền thông và Giải trí ODE,UPCoM,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,Giải trí & Truyền thông
+1275,OIL,PV Oil,UPCoM,Dầu khí,Dầu khí,Sản xuất Dầu khí,Sản xuất và Khai thác dầu khí
+1276,ONW,Dịch vụ Một Thế giới,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Dịch vụ giải trí
+1277,PAI,"CNTT, VT và Tự động hóa Dầu khí - PAIC",UPCoM,Viễn thông,Viễn thông,Viễn thông cố định,Viễn thông cố định
+1278,PAP,Cảng Phước An,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+1279,PAS,Quốc tế Phương Anh,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+1280,PAT,Phốt pho Apatit Việt Nam,UPCoM,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+1281,PBC,Dược Phẩm TW 1- Pharbaco,UPCoM,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+1282,PBT,BSPPT,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói
+1283,PCC,Xây lắp 1- Petrolimex,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1284,PCF,Cà phê PETEC,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Đồ uống & giải khát
+1285,PCM,VLXD Bưu điện,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1286,PDC,Dầu khí Phương Đông,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch
+1287,PDV,Vận tải Phương Đông Việt,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy
+1288,PEC,Cơ khí Điện lực,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp
+1289,PEG,TM Kỹ thuật và Đầu tư (PETEC),UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt
+1290,PEQ,Thiết bị xăng dầu Petrolimex,UPCoM,Dầu khí,Dầu khí,"Thiết bị, Dịch vụ và Phân phối Dầu khí",Thiết bị và Dịch vụ Dầu khí
+1291,PFL,Dầu khí Đông Đô,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1292,PGB,PG Bank,UPCoM,Ngân hàng,Ngân hàng,Ngân hàng,Ngân hàng
+1293,PHH,Hồng Hà Việt Nam,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1294,PHP,Cảng Hải Phòng,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+1295,PHS,Chứng khoán Phú Hưng,UPCoM,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+1296,PID,Trang trí nội thất Dầu khí,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1297,PIS,Pisico Bình Định,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ
+1298,PIV,PIV JSC,UPCoM,Tài chính,Bất động sản,Bất động sản,"Tư Vấn, Định giá, Môi giới Bất động sản"
+1299,PJS,Cấp nước Phú Hòa Tân,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1300,PLA,ĐT&DV Hạ tầng Xăng dầu (PLAND),UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1301,PLE,Tư vấn Xây dựng Petrolimex,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1302,PLO,Kho vận Petec,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+1303,PMJ,Vật tư Bưu điện,UPCoM,Công nghệ Thông tin,Công nghệ Thông tin,Thiết bị và Phần cứng,Thiết bị viễn thông
+1304,PMT,Telvina Việt Nam,UPCoM,Công nghệ Thông tin,Công nghệ Thông tin,Thiết bị và Phần cứng,Thiết bị viễn thông
+1305,PMW,Cấp Nước Phú Mỹ,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1306,PND,Xăng dầu Dầu khí Nam Định,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt
+1307,PNG,Thương Mại Phú Nhuận,UPCoM,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Bán lẻ phức hợp
+1308,PNP,Tân Cảng - Phú Hữu,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy
+1309,PNT,Kỹ thuật XD Phú Nhuận,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1310,POB,PVOIL Thái Bình,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt
+1311,POM,Thép Pomina,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+1312,POS,Bảo dưỡng công trình DK biển,UPCoM,Dầu khí,Dầu khí,"Thiết bị, Dịch vụ và Phân phối Dầu khí",Thiết bị và Dịch vụ Dầu khí
+1313,POV,PV Oil Vũng Áng,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt
+1314,PPH,Phong Phú Corp.,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+1315,PPI,BĐS Thái Bình Dương,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1316,PQN,DV Dầu khí Quảng Ngãi PTSC,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+1317,PRO,Procimex Việt Nam,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+1318,PRT,Sản xuất - XNK Bình Dương,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1319,PSB,Sao Mai Bến Đình,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1320,PSG,XL Dầu khí Sài Gòn,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1321,PSL,Chăn nuôi Phú Sơn,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+1322,PSN,PTSC Thanh Hóa,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+1323,PSP,DV Dầu Khí Đình Vũ,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải
+1324,PTE,Xi măng Phú Thọ,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1325,PTG,May Phan Thiết,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+1326,PTH,Vận tải và DV Petrolimex Hà Tây,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt
+1327,PTO,Xây dựng Công trình Bưu điện,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1328,PTP,Viễn Thông và In Bưu điện,UPCoM,Viễn thông,Viễn thông,Viễn thông cố định,Viễn thông cố định
+1329,PTT,Vận tải Dầu khí Đông Dương,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải
+1330,PTV,Thương mại dầu khí,UPCoM,Dầu khí,Dầu khí,"Thiết bị, Dịch vụ và Phân phối Dầu khí",Thiết bị và Dịch vụ Dầu khí
+1331,PVA,Xây dựng dầu khí Nghệ An,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1332,PVE,Tư vấn Dầu khí,UPCoM,Dầu khí,Dầu khí,"Thiết bị, Dịch vụ và Phân phối Dầu khí",Thiết bị và Dịch vụ Dầu khí
+1333,PVH,Xây lắp Dầu khí Thanh Hóa,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1334,PVL,Đầu tư Nhà Đất Việt,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1335,PVM,Thiết bị dầu khí (PV MACHINO),UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Nhà cung cấp thiết bị
+1336,PVO,Dầu nhờn PV Oil,UPCoM,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+1337,PVR,Đầu tư PVR Hà Nội,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1338,PVV,Vinaconex 39,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1339,PVX,Xây lắp Dầu khí Việt Nam,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1340,PVY,Chế tạo Giàn khoan Dầu khí,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1341,PWA,Bất động sản dầu khí,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1342,PWS,Cấp thoát nước Phú Yên,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1343,PX1,Xi măng Sông Lam 2,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1344,PXA,Đầu tư và Thương mại Dầu khí Nghệ An,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1345,PXC,Phát triển Đô thị Dầu khí,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1346,PXI,XL CN và dân dụng Dầu khí,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1347,PXL,KCN Dầu khí Long Sơn,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1348,PXM,Xây lắp Dầu khí Miền Trung,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1349,PXS,Lắp máy Dầu khí,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1350,PXT,Xây lắp Đường ống Dầu khí,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1351,QBS,Xuất nhập khẩu Quảng Bình,UPCoM,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+1352,QCC,Đầu tư Xây dựng và Phát triển Hạ tầng Viễn Thông,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1353,QHW,Nước khoáng Quảng Ninh,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Đồ uống & giải khát
+1354,QNC,Xi măng Quảng Ninh,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1355,QNS,Đường Quảng Ngãi,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+1356,QNT,Tư vấn và Đầu tư Phát triển Quảng Nam,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1357,QNU,Môi trường Đô thị Quảng Nam,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Chất thải & Môi trường
+1358,QNW,Cấp thoát nước và XD Quảng Ngãi,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1359,QPH,Thủy điện Quế Phong,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+1360,QSP,Tân cảng Quy Nhơn,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+1361,QTP,Nhiệt điện Quảng Ninh,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+1362,RAT,VT và TM Đường sắt,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải
+1363,RBC,Công Nghiệp và Xuất nhập khẩu Cao Su,UPCoM,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+1364,RCC,Công trình Đường sắt,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1365,RCD,XD - Địa ốc Cao su,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1366,REN,XD và ĐT Khu du lịch Sinh Thái,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1367,RGG,Regal Group,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1368,RIC,Quốc tế Hoàng Gia,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Dịch vụ giải trí
+1369,ROS,Xây dựng FLC FAROS,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1370,RTB,Cao su Tân Biên,UPCoM,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+1371,S12,Sông Đà 12,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1372,S27,Sông Đà 27,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1373,S72,Sông Đà 7.02,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1374,S74,Sông Đà 7.04,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1375,S96,Sông Đà 9.06,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1376,SAC,Dịch vụ cảng Sài Gòn,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+1377,SAL,Trục vớt Cứu hộ Việt Nam,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Xe tải & Đóng tàu
+1378,SAP,In Sách TP.HCM,UPCoM,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa"
+1379,SAS,DV Hàng không sân bay TSN,UPCoM,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng
+1380,SB1,Bia Sài Gòn - Nghệ Tĩnh,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia
+1381,SBB,Bia Sài Gòn Bình Tây,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia
+1382,SBD,Công nghệ Sao Bắc Đẩu,UPCoM,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Phần mềm
+1383,SBH,Thủy điện Sông Ba Hạ,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+1384,SBL,Bia Sài Gòn - Bạc Liêu,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia
+1385,SBM,Đầu tư PT Bắc Minh,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1386,SBR,Cao su Sông Bé,UPCoM,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+1387,SBS,Chứng khoán Sacombank,UPCoM,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+1388,SCC,Thương mại Đầu tư SHB,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1389,SCD,Giải khát Chương Dương,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Đồ uống & giải khát
+1390,SCJ,Xi măng Sài Sơn,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1391,SCL,Sông Đà Cao Cường,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1392,SCO,Công nghiệp Thủy Sản,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp
+1393,SCY,Đóng tàu Sông Cấm,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Xe tải & Đóng tàu
+1394,SD1,Sông Đà 1,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1395,SD2,Sông Đà 2,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1396,SD3,Sông Đà 3,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1397,SD4,Sông Đà 4,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1398,SD6,Sông Đà 6,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1399,SD7,Sông Đà 7,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1400,SD8,Sông Đà 8,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1401,SDB,Sông Đà 207,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1402,SDD,Xây lắp Sông Đà,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1403,SDJ,Sông Đà 25,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1404,SDK,Cơ khí Luyện Kim,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp
+1405,SDP,Công ty Cổ phần SDP,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1406,SDT,Sông Đà 10,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1407,SDV,Dịch vụ Sonadezi,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Chất thải & Môi trường
+1408,SDX,PCCC và Đầu tư XD Sông Đà,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1409,SDY,Xi măng Sông Đà Yaly,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1410,SEA,SEAPRODEX,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+1411,SEP,Thương mại Quảng Trị,UPCoM,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+1412,SGB,Sài Gòn Công thương,UPCoM,Ngân hàng,Ngân hàng,Ngân hàng,Ngân hàng
+1413,SGI,ĐT PT Sài Gòn 3 Group,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+1414,SGP,Cảng Sài Gòn,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+1415,SGS,Vận tải biển Sài Gòn,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy
+1416,SGV,Vinaconex Sài Gòn,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1417,SHC,Hàng hải Sài Gòn,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy
+1418,SHG,Tổng Công ty Sông Hồng,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1419,SID,Đầu tư PT Sài Gòn Co.op,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1420,SIG,Đầu tư và Thương mại Sông Đà,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1421,SII,Hạ tầng Nước Sài Gòn,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1422,SIV,SIVICO,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1423,SJC,Sông Đà 1.01,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1424,SJF,Đầu tư Sao Thái Dương,UPCoM,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+1425,SJG,Tổng Công ty Sông Đà,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1426,SJM,Sông Đà 19,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1427,SKH,NGK Sanest Khánh Hòa,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Đồ uống & giải khát
+1428,SKN,NGK Sanna Khánh Hòa,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Đồ uống & giải khát
+1429,SKV,NGK Yến sào Khánh Hòa,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Đồ uống & giải khát
+1430,SNC,Thủy sản Năm Căn,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+1431,SNZ,SONADEZI,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1432,SP2,Thủy điện Sử Pán 2,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+1433,SPB,Sợi Phú Bài,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+1434,SPD,Thủy sản Miền Trung,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+1435,SPH,XNK Thủy sản Hà Nội,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+1436,SPV,Thủy đặc sản,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+1437,SQC,Khoáng sản SG-Quy Nhơn,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng
+1438,SRB,SARA,UPCoM,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Phần mềm
+1439,SSF,Giáo dục G Sài Gòn,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Giầy dép
+1440,SSG,Vận tải Biển Hải Âu,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy
+1441,SSH,Phát triển Sunshine Homes,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1442,SSN,Thủy sản Sài Gòn,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+1443,SST,TM Sabeco Sông Tiền,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia
+1444,STD,Bia - NGK Sài Gòn - Tây Đô,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia
+1445,STH,Phát hành sách Thái Nguyên,UPCoM,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa"
+1446,STL,Sông Đà - Thăng Long,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1447,STS,Dịch vụ vận tải Sài Gòn,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải
+1448,STT,Vận chuyển Sài Gòn Tourist,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch
+1449,STW,Cấp nước Sóc Trăng,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1450,SVG,Hơi kỹ nghệ Que hàn,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Công nghiệp phức hợp
+1451,SVH,Thủy điện Sông Vàng,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+1452,SWC,Đường Sông Miền Nam,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy
+1453,SZE,Môi trường Sonadezi,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Chất thải & Môi trường
+1454,SZG,Sonadezi Giang Điền,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1455,TA6,Đầu tư và Xây lắp Thành An 665,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1456,TAB,Freco Việt Nam,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải
+1457,TAL,Đầu Tư Bất Động Sản Taseco,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1458,TAN,Cà phê Thuận An,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Đồ uống & giải khát
+1459,TAR,Nông nghiệp CN cao Trung An,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+1460,TAW,Cấp nước Trung An,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1461,TB8,SX và KD Vật tư Thiết bị - VVMI,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói
+1462,TBD,Thiết bị điện Đông Anh,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Thiết bị điện
+1463,TBH,Tổng Bách Hóa,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+1464,TBR,Địa ốc Tân Bình,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1465,TBT,XD Công trình GT Bến Tre,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1466,TBW,Nước sạch Thái Bình,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1467,TCJ,Tô Châu,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+1468,TCK,COMA,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1469,TCP,Than Cẩm Phả - Vinacomin,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai thác Than
+1470,TCW,Kho Vận Tân Cảng,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+1471,TDB,Thủy điện Định Bình,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+1472,TDF,Xây dựng Trung Đô,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1473,TDS,Thép Thủ Đức,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+1474,TED,Thiết kế GTVT,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1475,TEL,Phát triển Công trình Viễn thông,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1476,TGG,The Golden Group,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1477,TGP,Cáp Trường Phú,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Hàng điện & điện tử
+1478,TH1,XNK Tổng hợp 1,UPCoM,Dịch vụ Tiêu dùng,Bán lẻ,Phân phối thực phẩm & dược phẩm,Phân phối thực phẩm
+1479,THM,Tứ Hải Hà Nam,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+1480,THN,Cấp nước Thanh Hóa,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1481,THO,Xây Lắp Tây Hồ,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1482,THP,Thủy sản và TMại Thuận Phước,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+1483,THU,Môi trường và CTĐT Thanh Hóa,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Chất thải & Môi trường
+1484,THW,Cấp nước Tân Hòa,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1485,TID,Tổng Công ty Tín Nghĩa,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1486,TIE,Điện tử TIE,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Hàng điện & điện tử
+1487,TIN,Tài chính Cổ phần Tín Việt,UPCoM,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Quản lý tài sản
+1488,TIS,Gang thép Thái Nguyên,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+1489,TKA,Bao bì Tân Khánh An,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Containers & Đóng gói
+1490,TKC,Địa ốc Tân Kỷ,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1491,TKD,Tư vấn thiết kế đường bộ,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Tư vấn & Hỗ trợ KD
+1492,TKG,SX và T.Mại Tùng Khánh,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+1493,TL4,XD Thủy lợi 4,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1494,TLI,May Quốc tế Thắng Lợi,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+1495,TLL,Dệt may Thắng Lợi,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+1496,TLP,Thương mại XNK Thanh Lễ,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt
+1497,TLT,Viglacera Thăng long,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1498,TMG,Kim loại màu Thái Nguyên - Vimico,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+1499,TMW,Gỗ Tân Mai,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ
+1500,TNA,XNK Thiên Nam,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+1501,TNB,Thép Nhà Bè,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+1502,TNM,XNK và XD Công trình,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1503,TNP,Cảng Thị Nại,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+1504,TNS,Thép tấm lá Thống Nhất,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+1505,TNV,Xe đạp Thống Nhất,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng cá nhân
+1506,TNW,Nước sạch Thái Nguyên,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1507,TOP,Phân phối Top One,UPCoM,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Bán lẻ phức hợp
+1508,TOS,Dịch vụ biển Tân Cảng,UPCoM,Dầu khí,Dầu khí,"Thiết bị, Dịch vụ và Phân phối Dầu khí",Thiết bị và Dịch vụ Dầu khí
+1509,TOW,Cấp nước Trà Nóc - Ô Môn,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1510,TPS,Bến bãi vận tải Sài Gòn,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch
+1511,TQN,Thông Quảng Ninh,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Lâm nghiệp và Giấy,Lâm sản và Chế biến gỗ
+1512,TQW,Cấp thoát nước Tuyên Quang,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1513,TR1,Vận Tải 1 Traco,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+1514,TRS,Vận tải và Dịch vụ Hàng Hải,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy
+1515,TRT,CTCP RedstarCera,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1516,TS3,Trường Sơn 532,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1517,TS4,Thủy sản số 4,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+1518,TSA,Đầu Tư Và Xây Lắp Trường Sơn,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1519,TSD,Du lịch Trường Sơn Coecco,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch
+1520,TSG,TTTH Đường sắt Sài Gòn,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Đường sắt
+1521,TSJ,Hanoi Toserco,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch
+1522,TST,Dịch vụ KT Viễn Thông,UPCoM,Công nghệ Thông tin,Công nghệ Thông tin,Phần mềm & Dịch vụ Máy tính,Dịch vụ Máy tính
+1523,TT6,Tien Thinh Group,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+1524,TTB,Tập đoàn Tiến Bộ,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1525,TTD,Bệnh viện Tim Tâm Đức,UPCoM,Dược phẩm và Y tế,Y tế,Thiết bị và Dịch vụ Y tế,Chăm sóc y tế
+1526,TTG,May Thanh Trì,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+1527,TTN,Công nghệ và Truyền thông VN,UPCoM,Viễn thông,Viễn thông,Viễn thông cố định,Viễn thông cố định
+1528,TTS,Cán thép Thái Trung,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+1529,TTZ,Xây dựng Tiến Trung,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1530,TUG,Lai dắt và VT cảng Hải Phòng,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+1531,TV1,Tư vấn XD Điện 1,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Tư vấn & Hỗ trợ KD
+1532,TV6,TM ĐT xây lắp điện Thịnh Vượng,UPCoM,Dịch vụ Tiêu dùng,Bán lẻ,Bán lẻ,Phân phối hàng chuyên dụng
+1533,TVA,Sứ Viglacera Thanh Trì,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1534,TVG,XD Giao thông Vận tải,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1535,TVH,Tư vấn XD công trình Hàng hải,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1536,TVM,Tư vấn đầu tư Mỏ,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Tư vấn & Hỗ trợ KD
+1537,TVN,Thép Việt Nam,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+1538,TW3,Dược TW3,UPCoM,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+1539,UCT,Đô thị Cần Thơ,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Chất thải & Môi trường
+1540,UDC,XD&PT Đô thị Bà Rịa - Vũng Tàu,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1541,UDJ,Becamex UDJ,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1542,UDL,Đô thị và Môi trường Đắk Lắk,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Chất thải & Môi trường
+1543,UEM,Cơ điện Uông Bí - Vinacomin,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp
+1544,UMC,Công trình đô thị Nam Định,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1545,UPC,Cây xanh Vũng Tàu,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Tiện ích khác
+1546,UPH,Dược phẩm TW25,UPCoM,Dược phẩm và Y tế,Y tế,Dược phẩm,Dược phẩm
+1547,USC,Khảo sát và Xây dựng - USCO,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1548,USD,Công trình Đô thị Sóc Trăng,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Chất thải & Môi trường
+1549,UTT,Môi trường Đô thị Thanh Trì,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Chất thải & Môi trường
+1550,UXC,Chế biến Thủy sản Út Xi,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+1551,V11,VINACONEX No11,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1552,V15,Vinaconex 15,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1553,V45,Xây dựng số 45,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1554,VAB,Ngân hàng Việt Á,UPCoM,Ngân hàng,Ngân hàng,Ngân hàng,Ngân hàng
+1555,VAV,VIWACO,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1556,VBB,VietBank,UPCoM,Ngân hàng,Ngân hàng,Ngân hàng,Ngân hàng
+1557,VBG,Địa chất Việt Bắc - TKV,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng
+1558,VBH,Điện tử Bình Hòa,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Điện tử & Thiết bị điện,Hàng điện & điện tử
+1559,VC5,Xây dựng Số 5,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1560,VCE,Xây lắp Môi trường,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1561,VCP,Xây dựng và Năng lượng VCP,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+1562,VCR,Vinaconex - ITC,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1563,VCT,Tư vấn XD Vinaconex,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Tư vấn & Hỗ trợ KD
+1564,VCW,Đầu tư Nước sạch Sông Đà,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1565,VCX,Xi măng Yên Bình,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1566,VDB,Vận tải và CB Than Đông Bắc,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai thác Than
+1567,VDG,Vạn Đạt Group,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+1568,VDN,Vinatex Đà Nẵng,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+1569,VDT,Lưới thép Bình Tây,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+1570,VE2,Xây dựng Điện VNECO 2,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1571,VE9,VNECO 9,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1572,VEA,Máy động lực và Máy NN,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Công nghiệp nặng,Máy công nghiệp
+1573,VEC,Điện tử và Tin học VN,UPCoM,Công nghệ Thông tin,Công nghệ Thông tin,Thiết bị và Phần cứng,Phần cứng
+1574,VEF,Hội chợ Triển lãm Việt Nam,UPCoM,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,Dịch vụ truyền thông
+1575,VES,MÊ CA VNECO,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1576,VET,Thuốc thú y trung ương Navetco,UPCoM,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+1577,VFC,Vận tải biển VINAFCO,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy
+1578,VFR,Vận tải Vietfracht,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy
+1579,VGG,May Việt Tiến,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+1580,VGI,Đầu tư Quốc tế Viettel,UPCoM,Viễn thông,Viễn thông,Viễn thông di động,Viễn thông di động
+1581,VGL,Mạ kẽm công nghiệp Vingal-Vnsteel,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Kim loại,Thép và sản phẩm thép
+1582,VGR,Cảng xanh VIP,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+1583,VGT,VINATEX,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+1584,VGV,Tư vấn Xây dựng Việt Nam,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1585,VHD,PT Nhà và Đô thị Vinaconex,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1586,VHF,Chế biến lương thực Vĩnh Hà,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+1587,VHG,Công ty Cổ phần Đầu tư và Phát triển Việt Trung Nam,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Hàng công nghiệp,Công nghiệp phức hợp
+1588,VHH,Kinh doanh nhà Thành Đạt,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1589,VIE,CN Viễn thông VI TE CO,UPCoM,Công nghệ Thông tin,Công nghệ Thông tin,Thiết bị và Phần cứng,Thiết bị viễn thông
+1590,VIH,Viglacera Hà Nội,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1591,VIM,Khoáng sản Viglacera,UPCoM,Nguyên vật liệu,Tài nguyên Cơ bản,Khai khoáng,Khai khoáng
+1592,VIN,Kho vận ngoại thương VN,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+1593,VIR,Du lịch Vũng Tàu,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Khách sạn
+1594,VIW,Đầu tư nước và môi trường VN - Viwaseen,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1595,VKC,VKC Holdings,UPCoM,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Lốp xe
+1596,VKP,Nhựa Tân Hóa,UPCoM,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+1597,VLB,VLXD Biên Hòa,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1598,VLC,Chăn nuôi Việt Nam,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+1599,VLF,Lương thực Vĩnh Long,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+1600,VLG,VIMC Logistics,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải
+1601,VLP,Công trình Công cộng Vĩnh Long,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Chất thải & Môi trường
+1602,VLW,Cấp nước Vĩnh Long,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1603,VMA,CN Ô tô - Vinacomin,UPCoM,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô
+1604,VMG,Vimexco Gas,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Phân phối xăng dầu & khí đốt
+1605,VMK,Vimarko,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1606,VMT,Giao nhận Vận tải Miền Trung,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải
+1607,VNA,Vận tải biển Vinaship,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy
+1608,VNB,Sách Việt Nam,UPCoM,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa"
+1609,VNH,Đầu tư Việt Việt Nhật,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+1610,VNI,ĐT BĐS Việt Nam,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1611,VNP,Nhựa Việt Nam,UPCoM,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+1612,VNX,QC và Hội chợ Thương mại,UPCoM,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,Dịch vụ truyền thông
+1613,VNY,Thuốc thú y Trung ương I,UPCoM,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+1614,VNZ,CTCP VNG,UPCoM,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,Giải trí & Truyền thông
+1615,VOC,Dầu thực vật Việt Nam,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+1616,VPA,Vận tải Hóa dầu VP,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy
+1617,VPC,V- Power,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1618,VPL,Vinpearl ,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Dịch vụ giải trí
+1619,VPR,VINAPRINT,UPCoM,Dịch vụ Tiêu dùng,Truyền thông,Truyền thông,"Sách, ấn bản & sản phẩm văn hóa"
+1620,VPW,Cấp thoát nước số 1 Vĩnh Phúc,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1621,VQC,Giám định Vinaconmin,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Tư vấn & Hỗ trợ KD
+1622,VRG,PT Đô thị và KCN Cao su VN,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1623,VSE,DV Đường cao tốc Việt Nam,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+1624,VSF,Vinafood 2,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+1625,VSG,Container Phía Nam,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,"Kho bãi, hậu cần và bảo dưỡng"
+1626,VSN,VN Kỹ Nghệ Súc Sản (VISSAN),UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Thực phẩm
+1627,VST,Vận tải và Thuê Tàu biển Việt Nam,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy
+1628,VTA,Gạch men VITALY,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1629,VTD,Du lịch Vietourist,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch
+1630,VTE,VINACAP Kim Long,UPCoM,Công nghệ Thông tin,Công nghệ Thông tin,Thiết bị và Phần cứng,Thiết bị viễn thông
+1631,VTG,Du lịch tỉnh BR-VT,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch
+1632,VTI,Sản xuất - XNK Dệt may,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+1633,VTK,Tư vấn thiết kế Viettel,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Tư vấn & Hỗ trợ KD
+1634,VTL,Vang Thăng Long,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Vang & Rượu mạnh
+1635,VTM,Đưa đón thợ mỏ - Vinacomin,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch
+1636,VTQ,Việt Trung Quảng Bình,UPCoM,Nguyên vật liệu,Hóa chất,Hóa chất,"Nhựa, cao su & sợi"
+1637,VTR,Du lịch Vietravel,UPCoM,Dịch vụ Tiêu dùng,Du lịch và Giải trí,Du lịch & Giải trí,Vận tải hành khách & Du lịch
+1638,VTS,Gạch Ngói Từ Sơn,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1639,VTX,Vận tải Đa phương thức,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Dịch vụ vận tải
+1640,VUA,Chứng khoán Stanley Brothers,UPCoM,Tài chính,Dịch vụ tài chính,Dịch vụ tài chính,Môi giới chứng khoán
+1641,VUG,Thủy Sản Việt Úc,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Sản xuất thực phẩm,Nuôi trồng nông & hải sản
+1642,VVN,XD Công nghiệp Việt Nam,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1643,VVS,Đầu tư Phát triển Máy Việt Nam,UPCoM,Hàng Tiêu dùng,Ô tô và phụ tùng,Ô tô và phụ tùng,Sản xuất ô tô
+1644,VW1,Viwaseen.1,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1645,VW3,VIWASEEN.3,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1646,VWS,Nước và Môi trường VN,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Nước & Khí đốt,Nước
+1647,VXB,VLXD Bến Tre,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1648,VXP,Thuốc Thú y Trung ương VETVACO,UPCoM,Nguyên vật liệu,Hóa chất,Hóa chất,"Sản phẩm hóa dầu, Nông dược & Hóa chất khác"
+1649,VXT,Kho vận và DV Thương mại,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Tư vấn & Hỗ trợ Kinh doanh,Nhà cung cấp thiết bị
+1650,WSB,Bia Sài Gòn - Miền Tây,UPCoM,Hàng Tiêu dùng,Thực phẩm và đồ uống,Bia và đồ uống,Sản xuất bia
+1651,WTC,Vận tải thủy Vinacomin,UPCoM,Công nghiệp,Hàng & Dịch vụ Công nghiệp,Vận tải,Vận tải Thủy
+1652,X26,Công ty 26,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng May mặc
+1653,X77,Thành An 77,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1654,XDH,Đầu tư XD Dân dụng Hà Nội,UPCoM,Tài chính,Bất động sản,Bất động sản,Bất động sản
+1655,XHC,Nội thất Xuân Hòa,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng gia dụng,Thiết bị gia dụng
+1656,XLV,XL và DV Sông Đà,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Xây dựng
+1657,XMC,Bê tông Xuân Mai,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1658,XMD,Xuân Mai - Đạo Tú,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1659,XMP,Thủy điện Xuân Minh,UPCoM,Tiện ích Cộng đồng,"Điện, nước & xăng dầu khí đốt",Sản xuất & Phân phối Điện,Sản xuất & Phân phối Điện
+1660,XPH,Xà phòng Hà Nội,UPCoM,Hàng Tiêu dùng,Hàng cá nhân & Gia dụng,Hàng cá nhân,Hàng cá nhân
+1661,YBC,Xi măng và Khoáng sản Yên Bái,UPCoM,Công nghiệp,Xây dựng và Vật liệu,Xây dựng và Vật liệu,Vật liệu xây dựng & Nội thất
+1662,YTC,XNK Y tế TP.HCM,UPCoM,Dược phẩm và Y tế,Y tế,Thiết bị và Dịch vụ Y tế,Dụng cụ y tế
