@@ -37,17 +37,12 @@ COLOR_MAP = {
     'Tự doanh Thỏa thuận Ròng': '#d62728'
 }
 
-# Đường dẫn file CSV
-DATA_PATH = r'C:\MyProject\combined_data.csv'
-MARKETCAP_PATH = r'C:\MyProject\Vietnam_Marketcap_cleaned.csv'
-VOLUME_PATH = r"C:\MyProject\Vietnam_volume_cleaned.csv"
-PRICE_PATH = r"C:\MyProject\Vietnam_Price_cleaned.csv"
-SECTOR_PATH = r"C:\MyProject\Phan_loai_nganh.csv"
+
 # Đường dẫn file CSV từ GitHub (định dạng raw)
-#VOLUME_PATH = 'https://raw.githubusercontent.com/ThuyTien121/GPM1-ASSIGNMENT3/main/Vietnam_volume_cleaned.csv'
-#PRICE_PATH = 'https://raw.githubusercontent.com/ThuyTien121/GPM1-ASSIGNMENT3/main/Vietnam_Price_cleaned.csv'
-#SECTOR_PATH = 'https://raw.githubusercontent.com/ThuyTien121/GPM1-ASSIGNMENT3/main/Phan_loai_nganh.csv'
-#MARKETCAP_PATH = 'https://raw.githubusercontent.com/ThuyTien121/GPM1-ASSIGNMENT3/main/Vietnam_Marketcap_cleaned.csv'
+VOLUME_PATH = 'https://raw.githubusercontent.com/ThuyTien121/GPM1-ASSIGNMENT3/main/Vietnam_volume_cleaned.csv'
+PRICE_PATH = 'https://raw.githubusercontent.com/ThuyTien121/GPM1-ASSIGNMENT3/main/Vietnam_Price_cleaned.csv'
+SECTOR_PATH = 'https://raw.githubusercontent.com/ThuyTien121/GPM1-ASSIGNMENT3/main/Phan_loai_nganh.csv'
+MARKETCAP_PATH = 'https://raw.githubusercontent.com/ThuyTien121/GPM1-ASSIGNMENT3/main/Vietnam_Marketcap_cleaned.csv'
 
 
 # Thiết lập trang
